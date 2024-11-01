@@ -1,0 +1,1353 @@
+{
+  "H. G. Wells -- The War of the Worlds": {
+    "title": "The War of the Worlds",
+    "author": "H. G. Wells",
+    "downloads": 208,
+    "book_id": 8976,
+    "text_url": "https://www.gutenberg.org/ebooks/8976.txt.utf-8"
+  },
+  "H. G. Wells -- The Time Machine": {
+    "title": "The Time Machine",
+    "author": "H. G. Wells",
+    "downloads": 7307,
+    "book_id": 35,
+    "text_url": "https://www.gutenberg.org/ebooks/35.txt.utf-8"
+  },
+  "Ayn Rand -- Anthem": {
+    "title": "Anthem",
+    "author": "Ayn Rand",
+    "downloads": 7195,
+    "book_id": 1250,
+    "text_url": "https://www.gutenberg.org/ebooks/1250.txt.utf-8"
+  },
+  "Jules Verne -- Twenty Thousand Leagues under the Sea": {
+    "title": "Twenty Thousand Leagues under the Sea",
+    "author": "Jules Verne",
+    "downloads": 5526,
+    "book_id": 164,
+    "text_url": "https://www.gutenberg.org/ebooks/164.txt.utf-8"
+  },
+  "Kurt Vonnegut -- 2 B R 0 2 B": {
+    "title": "2 B R 0 2 B",
+    "author": "Kurt Vonnegut",
+    "downloads": 5350,
+    "book_id": 21279,
+    "text_url": "https://www.gutenberg.org/ebooks/21279.txt.utf-8"
+  },
+  "Philip K. Dick -- The Eyes Have It": {
+    "title": "The Eyes Have It",
+    "author": "Philip K. Dick",
+    "downloads": 4678,
+    "book_id": 31516,
+    "text_url": "https://www.gutenberg.org/ebooks/31516.txt.utf-8"
+  },
+  "H. G. Wells -- The island of Doctor Moreau": {
+    "title": "The island of Doctor Moreau",
+    "author": "H. G. Wells",
+    "downloads": 3889,
+    "book_id": 159,
+    "text_url": "https://www.gutenberg.org/ebooks/159.txt.utf-8"
+  },
+  "Jules Verne -- A Journey to the Centre of the Earth": {
+    "title": "A Journey to the Centre of the Earth",
+    "author": "Jules Verne",
+    "downloads": 3359,
+    "book_id": 18857,
+    "text_url": "https://www.gutenberg.org/ebooks/18857.txt.utf-8"
+  },
+  "Philip K. Dick -- Second Variety": {
+    "title": "Second Variety",
+    "author": "Philip K. Dick",
+    "downloads": 2091,
+    "book_id": 32032,
+    "text_url": "https://www.gutenberg.org/ebooks/32032.txt.utf-8"
+  },
+  "H. G. Wells -- The Country of the Blind, and Other Stories": {
+    "title": "The Country of the Blind, and Other Stories",
+    "author": "H. G. Wells",
+    "downloads": 2026,
+    "book_id": 11870,
+    "text_url": "https://www.gutenberg.org/ebooks/11870.txt.utf-8"
+  },
+  "Edwin Abbott Abbott -- Flatland: A Romance of Many Dimensions": {
+    "title": "Flatland: A Romance of Many Dimensions",
+    "author": "Edwin Abbott Abbott",
+    "downloads": 748,
+    "book_id": 97,
+    "text_url": "https://www.gutenberg.org/ebooks/97.txt.utf-8"
+  },
+  "Philip K. Dick -- The Hanging Stranger": {
+    "title": "The Hanging Stranger",
+    "author": "Philip K. Dick",
+    "downloads": 1870,
+    "book_id": 41562,
+    "text_url": "https://www.gutenberg.org/ebooks/41562.txt.utf-8"
+  },
+  "Edgar Rice Burroughs -- A Princess of Mars": {
+    "title": "A Princess of Mars",
+    "author": "Edgar Rice Burroughs",
+    "downloads": 445,
+    "book_id": 19515,
+    "text_url": "https://www.gutenberg.org/ebooks/19515.txt.utf-8"
+  },
+  "Jules Verne -- L'île mystérieuse (French)": {
+    "title": "L'île mystérieuse (French)",
+    "author": "Jules Verne",
+    "downloads": 1528,
+    "book_id": 14287,
+    "text_url": "https://www.gutenberg.org/ebooks/14287.txt.utf-8"
+  },
+  "Jules Verne -- Voyage au Centre de la Terre (French)": {
+    "title": "Voyage au Centre de la Terre (French)",
+    "author": "Jules Verne",
+    "downloads": 1524,
+    "book_id": 4791,
+    "text_url": "https://www.gutenberg.org/ebooks/4791.txt.utf-8"
+  },
+  "Jules Verne -- The Mysterious Island": {
+    "title": "The Mysterious Island",
+    "author": "Jules Verne",
+    "downloads": 220,
+    "book_id": 8993,
+    "text_url": "https://www.gutenberg.org/ebooks/8993.txt.utf-8"
+  },
+  "C. M. Kornbluth -- The Marching Morons": {
+    "title": "The Marching Morons",
+    "author": "C. M. Kornbluth",
+    "downloads": 1443,
+    "book_id": 51233,
+    "text_url": "https://www.gutenberg.org/ebooks/51233.txt.utf-8"
+  },
+  "Jules Verne -- Twenty Thousand Leagues Under the Seas: An Underwater Tour of the World": {
+    "title": "Twenty Thousand Leagues Under the Seas: An Underwater Tour of the World",
+    "author": "Jules Verne",
+    "downloads": 1354,
+    "book_id": 2488,
+    "text_url": "https://www.gutenberg.org/ebooks/2488.txt.utf-8"
+  },
+  "Arthur Conan Doyle -- The Lost World": {
+    "title": "The Lost World",
+    "author": "Arthur Conan Doyle",
+    "downloads": 1313,
+    "book_id": 139,
+    "text_url": "https://www.gutenberg.org/ebooks/139.txt.utf-8"
+  },
+  "Cory Doctorow -- Down and Out in the Magic Kingdom": {
+    "title": "Down and Out in the Magic Kingdom",
+    "author": "Cory Doctorow",
+    "downloads": 976,
+    "book_id": 8086,
+    "text_url": "https://www.gutenberg.org/ebooks/8086.txt.utf-8"
+  },
+  "Kurt Vonnegut -- The Big Trip Up Yonder": {
+    "title": "The Big Trip Up Yonder",
+    "author": "Kurt Vonnegut",
+    "downloads": 970,
+    "book_id": 30240,
+    "text_url": "https://www.gutenberg.org/ebooks/30240.txt.utf-8"
+  },
+  "H. G. Wells -- The Door in the Wall, and Other Stories": {
+    "title": "The Door in the Wall, and Other Stories",
+    "author": "H. G. Wells",
+    "downloads": 952,
+    "book_id": 456,
+    "text_url": "https://www.gutenberg.org/ebooks/456.txt.utf-8"
+  },
+  "H. G. Wells -- The Stolen Bacillus and Other Incidents": {
+    "title": "The Stolen Bacillus and Other Incidents",
+    "author": "H. G. Wells",
+    "downloads": 944,
+    "book_id": 12750,
+    "text_url": "https://www.gutenberg.org/ebooks/12750.txt.utf-8"
+  },
+  "Philip K. Dick -- Beyond Lies the Wub": {
+    "title": "Beyond Lies the Wub",
+    "author": "Philip K. Dick",
+    "downloads": 863,
+    "book_id": 28554,
+    "text_url": "https://www.gutenberg.org/ebooks/28554.txt.utf-8"
+  },
+  "Robert E. Howard -- Red Nails": {
+    "title": "Red Nails",
+    "author": "Robert E. Howard",
+    "downloads": 899,
+    "book_id": 32759,
+    "text_url": "https://www.gutenberg.org/ebooks/32759.txt.utf-8"
+  },
+  "Edward Bellamy -- Looking Backward, 2000 to 1887": {
+    "title": "Looking Backward, 2000 to 1887",
+    "author": "Edward Bellamy",
+    "downloads": 853,
+    "book_id": 624,
+    "text_url": "https://www.gutenberg.org/ebooks/624.txt.utf-8"
+  },
+  "H. P. Lovecraft -- The Dunwich Horror": {
+    "title": "The Dunwich Horror",
+    "author": "H. P. Lovecraft",
+    "downloads": 800,
+    "book_id": 50133,
+    "text_url": "https://www.gutenberg.org/ebooks/50133.txt.utf-8"
+  },
+  "H. Beam Piper -- Little Fuzzy": {
+    "title": "Little Fuzzy",
+    "author": "H. Beam Piper",
+    "downloads": 777,
+    "book_id": 18137,
+    "text_url": "https://www.gutenberg.org/ebooks/18137.txt.utf-8"
+  },
+  "William Hope Hodgson -- The House on the Borderland": {
+    "title": "The House on the Borderland",
+    "author": "William Hope Hodgson",
+    "downloads": 764,
+    "book_id": 10002,
+    "text_url": "https://www.gutenberg.org/ebooks/10002.txt.utf-8"
+  },
+  "Stanley G. Weinbaum -- Pygmalion's Spectacles": {
+    "title": "Pygmalion's Spectacles",
+    "author": "Stanley G. Weinbaum",
+    "downloads": 760,
+    "book_id": 22893,
+    "text_url": "https://www.gutenberg.org/ebooks/22893.txt.utf-8"
+  },
+  "Karel Čapek -- R.U.R. (Czech)": {
+    "title": "R.U.R. (Czech)",
+    "author": "Karel Čapek",
+    "downloads": 753,
+    "book_id": 13083,
+    "text_url": "https://www.gutenberg.org/ebooks/13083.txt.utf-8"
+  },
+  "Jules Verne -- Twenty Thousand Leagues Under the Sea": {
+    "title": "Twenty Thousand Leagues Under the Sea",
+    "author": "Jules Verne",
+    "downloads": 730,
+    "book_id": 20000,
+    "text_url": "https://www.gutenberg.org/ebooks/20000.txt.utf-8"
+  },
+  "Robert E. Howard -- The Hyborian Age": {
+    "title": "The Hyborian Age",
+    "author": "Robert E. Howard",
+    "downloads": 718,
+    "book_id": 42182,
+    "text_url": "https://www.gutenberg.org/ebooks/42182.txt.utf-8"
+  },
+  "Ben Bova and Myron R. Lewis -- The Dueling Machine": {
+    "title": "The Dueling Machine",
+    "author": "Ben Bova and Myron R. Lewis",
+    "downloads": 714,
+    "book_id": 30796,
+    "text_url": "https://www.gutenberg.org/ebooks/30796.txt.utf-8"
+  },
+  "Stanley G. Weinbaum -- A Martian Odyssey": {
+    "title": "A Martian Odyssey",
+    "author": "Stanley G. Weinbaum",
+    "downloads": 687,
+    "book_id": 23731,
+    "text_url": "https://www.gutenberg.org/ebooks/23731.txt.utf-8"
+  },
+  "Edgar Rice Burroughs -- The Gods of Mars": {
+    "title": "The Gods of Mars",
+    "author": "Edgar Rice Burroughs",
+    "downloads": 686,
+    "book_id": 64,
+    "text_url": "https://www.gutenberg.org/ebooks/64.txt.utf-8"
+  },
+  "Various -- Astounding Stories of Super-Science February 1930": {
+    "title": "Astounding Stories of Super-Science February 1930",
+    "author": "Various",
+    "downloads": 675,
+    "book_id": 28617,
+    "text_url": "https://www.gutenberg.org/ebooks/28617.txt.utf-8"
+  },
+  "H. G. Wells -- Twelve Stories and a Dream": {
+    "title": "Twelve Stories and a Dream",
+    "author": "H. G. Wells",
+    "downloads": 661,
+    "book_id": 1743,
+    "text_url": "https://www.gutenberg.org/ebooks/1743.txt.utf-8"
+  },
+  "Jules Verne -- From the Earth to the Moon; and, Round the Moon": {
+    "title": "From the Earth to the Moon; and, Round the Moon",
+    "author": "Jules Verne",
+    "downloads": 638,
+    "book_id": 83,
+    "text_url": "https://www.gutenberg.org/ebooks/83.txt.utf-8"
+  },
+  "Fritz Leiber -- A Pail of Air": {
+    "title": "A Pail of Air",
+    "author": "Fritz Leiber",
+    "downloads": 627,
+    "book_id": 51461,
+    "text_url": "https://www.gutenberg.org/ebooks/51461.txt.utf-8"
+  },
+  "David Lindsay -- A Voyage to Arcturus": {
+    "title": "A Voyage to Arcturus",
+    "author": "David Lindsay",
+    "downloads": 619,
+    "book_id": 1329,
+    "text_url": "https://www.gutenberg.org/ebooks/1329.txt.utf-8"
+  },
+  "William Hope Hodgson -- The Night Land": {
+    "title": "The Night Land",
+    "author": "William Hope Hodgson",
+    "downloads": 608,
+    "book_id": 10662,
+    "text_url": "https://www.gutenberg.org/ebooks/10662.txt.utf-8"
+  },
+  "H. G. Wells -- The World Set Free": {
+    "title": "The World Set Free",
+    "author": "H. G. Wells",
+    "downloads": 593,
+    "book_id": 1059,
+    "text_url": "https://www.gutenberg.org/ebooks/1059.txt.utf-8"
+  },
+  "Jules Verne -- A Journey to the Center of the Earth": {
+    "title": "A Journey to the Center of the Earth",
+    "author": "Jules Verne",
+    "downloads": 593,
+    "book_id": 19513,
+    "text_url": "https://www.gutenberg.org/ebooks/19513.txt.utf-8"
+  },
+  "Isaac Asimov -- Youth": {
+    "title": "Youth",
+    "author": "Isaac Asimov",
+    "downloads": 567,
+    "book_id": 31547,
+    "text_url": "https://www.gutenberg.org/ebooks/31547.txt.utf-8"
+  },
+  "Philip K. Dick -- The Defenders": {
+    "title": "The Defenders",
+    "author": "Philip K. Dick",
+    "downloads": 561,
+    "book_id": 28767,
+    "text_url": "https://www.gutenberg.org/ebooks/28767.txt.utf-8"
+  },
+  "E. E. Smith -- Triplanetary": {
+    "title": "Triplanetary",
+    "author": "E. E. Smith",
+    "downloads": 545,
+    "book_id": 32706,
+    "text_url": "https://www.gutenberg.org/ebooks/32706.txt.utf-8"
+  },
+  "H. Beam Piper -- Omnilingual": {
+    "title": "Omnilingual",
+    "author": "H. Beam Piper",
+    "downloads": 535,
+    "book_id": 19445,
+    "text_url": "https://www.gutenberg.org/ebooks/19445.txt.utf-8"
+  },
+  "Philip K. Dick -- The Variable Man": {
+    "title": "The Variable Man",
+    "author": "Philip K. Dick",
+    "downloads": 508,
+    "book_id": 32154,
+    "text_url": "https://www.gutenberg.org/ebooks/32154.txt.utf-8"
+  },
+  "H. G. Wells -- Tales of Space and Time": {
+    "title": "Tales of Space and Time",
+    "author": "H. G. Wells",
+    "downloads": 505,
+    "book_id": 27365,
+    "text_url": "https://www.gutenberg.org/ebooks/27365.txt.utf-8"
+  },
+  "Rudyard Kipling -- With the Night Mail: A Story of 2000 A.D.": {
+    "title": "With the Night Mail: A Story of 2000 A.D.",
+    "author": "Rudyard Kipling",
+    "downloads": 489,
+    "book_id": 29135,
+    "text_url": "https://www.gutenberg.org/ebooks/29135.txt.utf-8"
+  },
+  "H. P. Lovecraft -- The Shunned House": {
+    "title": "The Shunned House",
+    "author": "H. P. Lovecraft",
+    "downloads": 485,
+    "book_id": 31469,
+    "text_url": "https://www.gutenberg.org/ebooks/31469.txt.utf-8"
+  },
+  "Jules Verne -- De la terre à la lune: trajet direct en 97 heures 20 minutes (French)": {
+    "title": "De la terre à la lune: trajet direct en 97 heures 20 minutes (French)",
+    "author": "Jules Verne",
+    "downloads": 484,
+    "book_id": 799,
+    "text_url": "https://www.gutenberg.org/ebooks/799.txt.utf-8"
+  },
+  "Edgar Rice Burroughs -- The warlord of Mars": {
+    "title": "The warlord of Mars",
+    "author": "Edgar Rice Burroughs",
+    "downloads": 471,
+    "book_id": 68,
+    "text_url": "https://www.gutenberg.org/ebooks/68.txt.utf-8"
+  },
+  "Harry Harrison -- Deathworld": {
+    "title": "Deathworld",
+    "author": "Harry Harrison",
+    "downloads": 465,
+    "book_id": 28346,
+    "text_url": "https://www.gutenberg.org/ebooks/28346.txt.utf-8"
+  },
+  "Frederik Pohl -- The Tunnel Under the World": {
+    "title": "The Tunnel Under the World",
+    "author": "Frederik Pohl",
+    "downloads": 464,
+    "book_id": 31979,
+    "text_url": "https://www.gutenberg.org/ebooks/31979.txt.utf-8"
+  },
+  "Edgar Rice Burroughs -- Thuvia, Maid of Mars": {
+    "title": "Thuvia, Maid of Mars",
+    "author": "Edgar Rice Burroughs",
+    "downloads": 458,
+    "book_id": 72,
+    "text_url": "https://www.gutenberg.org/ebooks/72.txt.utf-8"
+  },
+  "Robert W. Chambers -- In Search of the Unknown": {
+    "title": "In Search of the Unknown",
+    "author": "Robert W. Chambers",
+    "downloads": 455,
+    "book_id": 18668,
+    "text_url": "https://www.gutenberg.org/ebooks/18668.txt.utf-8"
+  },
+  "H. G. Wells -- The Sleeper Awakes": {
+    "title": "The Sleeper Awakes",
+    "author": "H. G. Wells",
+    "downloads": 444,
+    "book_id": 12163,
+    "text_url": "https://www.gutenberg.org/ebooks/12163.txt.utf-8"
+  },
+  "Edgar Rice Burroughs -- At the Earth's Core": {
+    "title": "At the Earth's Core",
+    "author": "Edgar Rice Burroughs",
+    "downloads": 443,
+    "book_id": 123,
+    "text_url": "https://www.gutenberg.org/ebooks/123.txt.utf-8"
+  },
+  "Ward Moore -- Greener Than You Think": {
+    "title": "Greener Than You Think",
+    "author": "Ward Moore",
+    "downloads": 440,
+    "book_id": 24246,
+    "text_url": "https://www.gutenberg.org/ebooks/24246.txt.utf-8"
+  },
+  "Jules Verne and Michel Verne -- In the year 2889": {
+    "title": "In the year 2889",
+    "author": "Jules Verne and Michel Verne",
+    "downloads": 427,
+    "book_id": 19362,
+    "text_url": "https://www.gutenberg.org/ebooks/19362.txt.utf-8"
+  },
+  "Paul Myron Anthony Linebarger -- The Game of Rat and Dragon": {
+    "title": "The Game of Rat and Dragon",
+    "author": "Paul Myron Anthony Linebarger",
+    "downloads": 427,
+    "book_id": 29614,
+    "text_url": "https://www.gutenberg.org/ebooks/29614.txt.utf-8"
+  },
+  "Jack McKenty -- $1,000 a Plate": {
+    "title": "$1,000 a Plate",
+    "author": "Jack McKenty",
+    "downloads": 425,
+    "book_id": 50921,
+    "text_url": "https://www.gutenberg.org/ebooks/50921.txt.utf-8"
+  },
+  "Robert E. Howard -- Beyond the Black River": {
+    "title": "Beyond the Black River",
+    "author": "Robert E. Howard",
+    "downloads": 425,
+    "book_id": 42254,
+    "text_url": "https://www.gutenberg.org/ebooks/42254.txt.utf-8"
+  },
+  "Edgar Rice Burroughs -- The outlaw of Torn": {
+    "title": "The outlaw of Torn",
+    "author": "Edgar Rice Burroughs",
+    "downloads": 416,
+    "book_id": 369,
+    "text_url": "https://www.gutenberg.org/ebooks/369.txt.utf-8"
+  },
+  "H. G. Wells -- The Food of the Gods and How It Came to Earth": {
+    "title": "The Food of the Gods and How It Came to Earth",
+    "author": "H. G. Wells",
+    "downloads": 412,
+    "book_id": 11696,
+    "text_url": "https://www.gutenberg.org/ebooks/11696.txt.utf-8"
+  },
+  "Jesse F. Bone -- The Lani People": {
+    "title": "The Lani People",
+    "author": "Jesse F. Bone",
+    "downloads": 411,
+    "book_id": 2509,
+    "text_url": "https://www.gutenberg.org/ebooks/2509.txt.utf-8"
+  },
+  "Philip Francis Nowlan -- Armageddon—2419 A.D.": {
+    "title": "Armageddon—2419 A.D.",
+    "author": "Philip Francis Nowlan",
+    "downloads": 404,
+    "book_id": 32530,
+    "text_url": "https://www.gutenberg.org/ebooks/32530.txt.utf-8"
+  },
+  "Jules Verne -- Vingt mille Lieues Sous Les Mers — Complete (French)": {
+    "title": "Vingt mille Lieues Sous Les Mers — Complete (French)",
+    "author": "Jules Verne",
+    "downloads": 399,
+    "book_id": 5097,
+    "text_url": "https://www.gutenberg.org/ebooks/5097.txt.utf-8"
+  },
+  "Jules Verne -- A Journey into the Interior of the Earth": {
+    "title": "A Journey into the Interior of the Earth",
+    "author": "Jules Verne",
+    "downloads": 399,
+    "book_id": 3748,
+    "text_url": "https://www.gutenberg.org/ebooks/3748.txt.utf-8"
+  },
+  "Ray Bradbury -- Futuria Fantasia, Fall 1939": {
+    "title": "Futuria Fantasia, Fall 1939",
+    "author": "Ray Bradbury",
+    "downloads": 398,
+    "book_id": 41624,
+    "text_url": "https://www.gutenberg.org/ebooks/41624.txt.utf-8"
+  },
+  "Various -- Astounding Stories of Super-Science January 1931": {
+    "title": "Astounding Stories of Super-Science January 1931",
+    "author": "Various",
+    "downloads": 391,
+    "book_id": 30177,
+    "text_url": "https://www.gutenberg.org/ebooks/30177.txt.utf-8"
+  },
+  "Robert Sheckley -- Watchbird": {
+    "title": "Watchbird",
+    "author": "Robert Sheckley",
+    "downloads": 382,
+    "book_id": 29579,
+    "text_url": "https://www.gutenberg.org/ebooks/29579.txt.utf-8"
+  },
+  "Philip K. Dick -- The Skull": {
+    "title": "The Skull",
+    "author": "Philip K. Dick",
+    "downloads": 366,
+    "book_id": 30255,
+    "text_url": "https://www.gutenberg.org/ebooks/30255.txt.utf-8"
+  },
+  "Robert E. Howard -- Queen of the Black Coast": {
+    "title": "Queen of the Black Coast",
+    "author": "Robert E. Howard",
+    "downloads": 364,
+    "book_id": 42183,
+    "text_url": "https://www.gutenberg.org/ebooks/42183.txt.utf-8"
+  },
+  "Edgar Rice Burroughs -- The Chessmen of Mars": {
+    "title": "The Chessmen of Mars",
+    "author": "Edgar Rice Burroughs",
+    "downloads": 360,
+    "book_id": 1153,
+    "text_url": "https://www.gutenberg.org/ebooks/1153.txt.utf-8"
+  },
+  "Various -- Astounding Stories,  April, 1931": {
+    "title": "Astounding Stories,  April, 1931",
+    "author": "Various",
+    "downloads": 357,
+    "book_id": 30452,
+    "text_url": "https://www.gutenberg.org/ebooks/30452.txt.utf-8"
+  },
+  "H. Beam Piper -- Space Viking": {
+    "title": "Space Viking",
+    "author": "H. Beam Piper",
+    "downloads": 357,
+    "book_id": 20728,
+    "text_url": "https://www.gutenberg.org/ebooks/20728.txt.utf-8"
+  },
+  "H. P. Lovecraft -- Writings in the United Amateur, 1915-1922": {
+    "title": "Writings in the United Amateur, 1915-1922",
+    "author": "H. P. Lovecraft",
+    "downloads": 355,
+    "book_id": 30637,
+    "text_url": "https://www.gutenberg.org/ebooks/30637.txt.utf-8"
+  },
+  "E. E. Smith -- First Lensman": {
+    "title": "First Lensman",
+    "author": "E. E. Smith",
+    "downloads": 347,
+    "book_id": 49525,
+    "text_url": "https://www.gutenberg.org/ebooks/49525.txt.utf-8"
+  },
+  "Poul Anderson -- Industrial Revolution": {
+    "title": "Industrial Revolution",
+    "author": "Poul Anderson",
+    "downloads": 340,
+    "book_id": 30971,
+    "text_url": "https://www.gutenberg.org/ebooks/30971.txt.utf-8"
+  },
+  "Philip K. Dick -- Mr. Spaceship": {
+    "title": "Mr. Spaceship",
+    "author": "Philip K. Dick",
+    "downloads": 340,
+    "book_id": 32522,
+    "text_url": "https://www.gutenberg.org/ebooks/32522.txt.utf-8"
+  },
+  "Randall Garrett -- ...After a Few Words...": {
+    "title": "...After a Few Words...",
+    "author": "Randall Garrett",
+    "downloads": 335,
+    "book_id": 23960,
+    "text_url": "https://www.gutenberg.org/ebooks/23960.txt.utf-8"
+  },
+  "Rick Raphael -- Code Three": {
+    "title": "Code Three",
+    "author": "Rick Raphael",
+    "downloads": 327,
+    "book_id": 19111,
+    "text_url": "https://www.gutenberg.org/ebooks/19111.txt.utf-8"
+  },
+  "Arthur Conan Doyle -- The Poison Belt": {
+    "title": "The Poison Belt",
+    "author": "Arthur Conan Doyle",
+    "downloads": 326,
+    "book_id": 126,
+    "text_url": "https://www.gutenberg.org/ebooks/126.txt.utf-8"
+  },
+  "Various -- Astounding Stories of Super-Science, May, 1930": {
+    "title": "Astounding Stories of Super-Science, May, 1930",
+    "author": "Various",
+    "downloads": 325,
+    "book_id": 29809,
+    "text_url": "https://www.gutenberg.org/ebooks/29809.txt.utf-8"
+  },
+  "Robert E. Howard -- Shadows in Zamboula": {
+    "title": "Shadows in Zamboula",
+    "author": "Robert E. Howard",
+    "downloads": 324,
+    "book_id": 42196,
+    "text_url": "https://www.gutenberg.org/ebooks/42196.txt.utf-8"
+  },
+  "Andre Norton -- The Gifts of Asti": {
+    "title": "The Gifts of Asti",
+    "author": "Andre Norton",
+    "downloads": 323,
+    "book_id": 19029,
+    "text_url": "https://www.gutenberg.org/ebooks/19029.txt.utf-8"
+  },
+  "Edgar Rice Burroughs -- The Land That Time Forgot": {
+    "title": "The Land That Time Forgot",
+    "author": "Edgar Rice Burroughs",
+    "downloads": 323,
+    "book_id": 551,
+    "text_url": "https://www.gutenberg.org/ebooks/551.txt.utf-8"
+  },
+  "E. E. Smith and Lee Hawkins Garby -- The Skylark of Space": {
+    "title": "The Skylark of Space",
+    "author": "E. E. Smith and Lee Hawkins Garby",
+    "downloads": 316,
+    "book_id": 20869,
+    "text_url": "https://www.gutenberg.org/ebooks/20869.txt.utf-8"
+  },
+  "Jules Verne -- Off on a Comet! a Journey through Planetary Space": {
+    "title": "Off on a Comet! a Journey through Planetary Space",
+    "author": "Jules Verne",
+    "downloads": 316,
+    "book_id": 1353,
+    "text_url": "https://www.gutenberg.org/ebooks/1353.txt.utf-8"
+  },
+  "Raymond Z. Gallun -- The Planet Strappers": {
+    "title": "The Planet Strappers",
+    "author": "Raymond Z. Gallun",
+    "downloads": 316,
+    "book_id": 25067,
+    "text_url": "https://www.gutenberg.org/ebooks/25067.txt.utf-8"
+  },
+  "Philip K. Dick -- Beyond the Door": {
+    "title": "Beyond the Door",
+    "author": "Philip K. Dick",
+    "downloads": 306,
+    "book_id": 28644,
+    "text_url": "https://www.gutenberg.org/ebooks/28644.txt.utf-8"
+  },
+  "James H. Schmitz -- Legacy": {
+    "title": "Legacy",
+    "author": "James H. Schmitz",
+    "downloads": 305,
+    "book_id": 21510,
+    "text_url": "https://www.gutenberg.org/ebooks/21510.txt.utf-8"
+  },
+  "Charles L. Fontenay -- Disqualified": {
+    "title": "Disqualified",
+    "author": "Charles L. Fontenay",
+    "downloads": 305,
+    "book_id": 30251,
+    "text_url": "https://www.gutenberg.org/ebooks/30251.txt.utf-8"
+  },
+  "Robert E. Howard -- A Witch Shall Be Born": {
+    "title": "A Witch Shall Be Born",
+    "author": "Robert E. Howard",
+    "downloads": 300,
+    "book_id": 42227,
+    "text_url": "https://www.gutenberg.org/ebooks/42227.txt.utf-8"
+  },
+  "Abraham Merritt -- The Moon Pool": {
+    "title": "The Moon Pool",
+    "author": "Abraham Merritt",
+    "downloads": 298,
+    "book_id": 765,
+    "text_url": "https://www.gutenberg.org/ebooks/765.txt.utf-8"
+  },
+  "Edgar Rice Burroughs -- The Lost Continent": {
+    "title": "The Lost Continent",
+    "author": "Edgar Rice Burroughs",
+    "downloads": 296,
+    "book_id": 149,
+    "text_url": "https://www.gutenberg.org/ebooks/149.txt.utf-8"
+  },
+  "Garrett Putman Serviss -- Curiosities of the Sky": {
+    "title": "Curiosities of the Sky",
+    "author": "Garrett Putman Serviss",
+    "downloads": 291,
+    "book_id": 6630,
+    "text_url": "https://www.gutenberg.org/ebooks/6630.txt.utf-8"
+  },
+  "Richard Sabia -- I Was a Teen-Age Secret Weapon": {
+    "title": "I Was a Teen-Age Secret Weapon",
+    "author": "Richard Sabia",
+    "downloads": 291,
+    "book_id": 23591,
+    "text_url": "https://www.gutenberg.org/ebooks/23591.txt.utf-8"
+  },
+  "H. Beam Piper -- The Cosmic Computer": {
+    "title": "The Cosmic Computer",
+    "author": "H. Beam Piper",
+    "downloads": 291,
+    "book_id": 20727,
+    "text_url": "https://www.gutenberg.org/ebooks/20727.txt.utf-8"
+  },
+  "Andre Norton -- All cats are gray": {
+    "title": "All cats are gray",
+    "author": "Andre Norton",
+    "downloads": 288,
+    "book_id": 29019,
+    "text_url": "https://www.gutenberg.org/ebooks/29019.txt.utf-8"
+  },
+  "Robert E. Howard -- The People of the Black Circle": {
+    "title": "The People of the Black Circle",
+    "author": "Robert E. Howard",
+    "downloads": 287,
+    "book_id": 42259,
+    "text_url": "https://www.gutenberg.org/ebooks/42259.txt.utf-8"
+  },
+  "Edgar Rice Burroughs -- The Monster Men": {
+    "title": "The Monster Men",
+    "author": "Edgar Rice Burroughs",
+    "downloads": 286,
+    "book_id": 96,
+    "text_url": "https://www.gutenberg.org/ebooks/96.txt.utf-8"
+  },
+  "John Jacob Astor -- A Journey in Other Worlds: A Romance of the Future": {
+    "title": "A Journey in Other Worlds: A Romance of the Future",
+    "author": "John Jacob Astor",
+    "downloads": 284,
+    "book_id": 1607,
+    "text_url": "https://www.gutenberg.org/ebooks/1607.txt.utf-8"
+  },
+  "Philip Wylie -- Gladiator": {
+    "title": "Gladiator",
+    "author": "Philip Wylie",
+    "downloads": 283,
+    "book_id": 42914,
+    "text_url": "https://www.gutenberg.org/ebooks/42914.txt.utf-8"
+  },
+  "Robert E. Howard -- The Devil in Iron": {
+    "title": "The Devil in Iron",
+    "author": "Robert E. Howard",
+    "downloads": 283,
+    "book_id": 42209,
+    "text_url": "https://www.gutenberg.org/ebooks/42209.txt.utf-8"
+  },
+  "Edgar Rice Burroughs -- Pellucidar": {
+    "title": "Pellucidar",
+    "author": "Edgar Rice Burroughs",
+    "downloads": 282,
+    "book_id": 605,
+    "text_url": "https://www.gutenberg.org/ebooks/605.txt.utf-8"
+  },
+  "David Duncan -- The Immortals": {
+    "title": "The Immortals",
+    "author": "David Duncan",
+    "downloads": 279,
+    "book_id": 51801,
+    "text_url": "https://www.gutenberg.org/ebooks/51801.txt.utf-8"
+  },
+  "Robert Sheckley -- Ask a Foolish Question": {
+    "title": "Ask a Foolish Question",
+    "author": "Robert Sheckley",
+    "downloads": 273,
+    "book_id": 33854,
+    "text_url": "https://www.gutenberg.org/ebooks/33854.txt.utf-8"
+  },
+  "Keith Laumer -- Greylorn": {
+    "title": "Greylorn",
+    "author": "Keith Laumer",
+    "downloads": 272,
+    "book_id": 23028,
+    "text_url": "https://www.gutenberg.org/ebooks/23028.txt.utf-8"
+  },
+  "Garrett Putman Serviss -- Edison's Conquest of Mars": {
+    "title": "Edison's Conquest of Mars",
+    "author": "Garrett Putman Serviss",
+    "downloads": 268,
+    "book_id": 19141,
+    "text_url": "https://www.gutenberg.org/ebooks/19141.txt.utf-8"
+  },
+  "H. G. Wells -- The First Men in the Moon": {
+    "title": "The First Men in the Moon",
+    "author": "H. G. Wells",
+    "downloads": 265,
+    "book_id": 1013,
+    "text_url": "https://www.gutenberg.org/ebooks/1013.txt.utf-8"
+  },
+  "Robert E. Howard -- Jewels of Gwahlur": {
+    "title": "Jewels of Gwahlur",
+    "author": "Robert E. Howard",
+    "downloads": 262,
+    "book_id": 42236,
+    "text_url": "https://www.gutenberg.org/ebooks/42236.txt.utf-8"
+  },
+  "Fritz Leiber -- Coming Attraction": {
+    "title": "Coming Attraction",
+    "author": "Fritz Leiber",
+    "downloads": 262,
+    "book_id": 51082,
+    "text_url": "https://www.gutenberg.org/ebooks/51082.txt.utf-8"
+  },
+  "Tom Godwin -- Space Prison": {
+    "title": "Space Prison",
+    "author": "Tom Godwin",
+    "downloads": 261,
+    "book_id": 22549,
+    "text_url": "https://www.gutenberg.org/ebooks/22549.txt.utf-8"
+  },
+  "Fredric Brown -- Two Timer": {
+    "title": "Two Timer",
+    "author": "Fredric Brown",
+    "downloads": 260,
+    "book_id": 29948,
+    "text_url": "https://www.gutenberg.org/ebooks/29948.txt.utf-8"
+  },
+  "Randall Garrett -- Despoilers of the Golden Empire": {
+    "title": "Despoilers of the Golden Empire",
+    "author": "Randall Garrett",
+    "downloads": 258,
+    "book_id": 24091,
+    "text_url": "https://www.gutenberg.org/ebooks/24091.txt.utf-8"
+  },
+  "Robert E. Howard -- Shadows in the Moonlight": {
+    "title": "Shadows in the Moonlight",
+    "author": "Robert E. Howard",
+    "downloads": 257,
+    "book_id": 42188,
+    "text_url": "https://www.gutenberg.org/ebooks/42188.txt.utf-8"
+  },
+  "H. G. Wells -- When the Sleeper Wakes": {
+    "title": "When the Sleeper Wakes",
+    "author": "H. G. Wells",
+    "downloads": 254,
+    "book_id": 775,
+    "text_url": "https://www.gutenberg.org/ebooks/775.txt.utf-8"
+  },
+  "Stephen Marlowe -- A World Called Crimson": {
+    "title": "A World Called Crimson",
+    "author": "Stephen Marlowe",
+    "downloads": 253,
+    "book_id": 25684,
+    "text_url": "https://www.gutenberg.org/ebooks/25684.txt.utf-8"
+  },
+  "Philip K. Dick -- Tony and the Beetles": {
+    "title": "Tony and the Beetles",
+    "author": "Philip K. Dick",
+    "downloads": 253,
+    "book_id": 40964,
+    "text_url": "https://www.gutenberg.org/ebooks/40964.txt.utf-8"
+  },
+  "Neil R. Jones -- The Jameson Satellite": {
+    "title": "The Jameson Satellite",
+    "author": "Neil R. Jones",
+    "downloads": 252,
+    "book_id": 26906,
+    "text_url": "https://www.gutenberg.org/ebooks/26906.txt.utf-8"
+  },
+  "Various -- Astounding Stories, May, 1931": {
+    "title": "Astounding Stories, May, 1931",
+    "author": "Various",
+    "downloads": 251,
+    "book_id": 30532,
+    "text_url": "https://www.gutenberg.org/ebooks/30532.txt.utf-8"
+  },
+  "Jules Verne -- All Around the Moon": {
+    "title": "All Around the Moon",
+    "author": "Jules Verne",
+    "downloads": 250,
+    "book_id": 16457,
+    "text_url": "https://www.gutenberg.org/ebooks/16457.txt.utf-8"
+  },
+  "Robert Sheckley -- Keep Your Shape": {
+    "title": "Keep Your Shape",
+    "author": "Robert Sheckley",
+    "downloads": 250,
+    "book_id": 32346,
+    "text_url": "https://www.gutenberg.org/ebooks/32346.txt.utf-8"
+  },
+  "E. E. Smith -- Skylark Three": {
+    "title": "Skylark Three",
+    "author": "E. E. Smith",
+    "downloads": 250,
+    "book_id": 21051,
+    "text_url": "https://www.gutenberg.org/ebooks/21051.txt.utf-8"
+  },
+  "Lester Del Rey -- Let 'Em Breathe Space!": {
+    "title": "Let 'Em Breathe Space!",
+    "author": "Lester Del Rey",
+    "downloads": 246,
+    "book_id": 31286,
+    "text_url": "https://www.gutenberg.org/ebooks/31286.txt.utf-8"
+  },
+  "Jr. John W. Campbell -- The Last Evolution": {
+    "title": "The Last Evolution",
+    "author": "Jr. John W. Campbell",
+    "downloads": 246,
+    "book_id": 27462,
+    "text_url": "https://www.gutenberg.org/ebooks/27462.txt.utf-8"
+  },
+  "E. Everett Evans and E. E. Smith -- Masters of Space": {
+    "title": "Masters of Space",
+    "author": "E. Everett Evans and E. E. Smith",
+    "downloads": 244,
+    "book_id": 22754,
+    "text_url": "https://www.gutenberg.org/ebooks/22754.txt.utf-8"
+  },
+  "Rick Raphael -- Make Mine Homogenized": {
+    "title": "Make Mine Homogenized",
+    "author": "Rick Raphael",
+    "downloads": 243,
+    "book_id": 24119,
+    "text_url": "https://www.gutenberg.org/ebooks/24119.txt.utf-8"
+  },
+  "Leigh Brackett -- Black Amazon of Mars": {
+    "title": "Black Amazon of Mars",
+    "author": "Leigh Brackett",
+    "downloads": 242,
+    "book_id": 32664,
+    "text_url": "https://www.gutenberg.org/ebooks/32664.txt.utf-8"
+  },
+  "Robert Sheckley -- The Status Civilization": {
+    "title": "The Status Civilization",
+    "author": "Robert Sheckley",
+    "downloads": 238,
+    "book_id": 20919,
+    "text_url": "https://www.gutenberg.org/ebooks/20919.txt.utf-8"
+  },
+  "Katherine MacLean -- The Snowball Effect": {
+    "title": "The Snowball Effect",
+    "author": "Katherine MacLean",
+    "downloads": 237,
+    "book_id": 50766,
+    "text_url": "https://www.gutenberg.org/ebooks/50766.txt.utf-8"
+  },
+  "John J. McGuire and H. Beam Piper -- Lone Star Planet": {
+    "title": "Lone Star Planet",
+    "author": "John J. McGuire and H. Beam Piper",
+    "downloads": 236,
+    "book_id": 20121,
+    "text_url": "https://www.gutenberg.org/ebooks/20121.txt.utf-8"
+  },
+  "Abraham Merritt -- The Metal Monster": {
+    "title": "The Metal Monster",
+    "author": "Abraham Merritt",
+    "downloads": 236,
+    "book_id": 3479,
+    "text_url": "https://www.gutenberg.org/ebooks/3479.txt.utf-8"
+  },
+  "Randall Garrett -- Hail to the Chief": {
+    "title": "Hail to the Chief",
+    "author": "Randall Garrett",
+    "downloads": 235,
+    "book_id": 26109,
+    "text_url": "https://www.gutenberg.org/ebooks/26109.txt.utf-8"
+  },
+  "Various -- Astounding Stories,  August, 1931": {
+    "title": "Astounding Stories,  August, 1931",
+    "author": "Various",
+    "downloads": 235,
+    "book_id": 33016,
+    "text_url": "https://www.gutenberg.org/ebooks/33016.txt.utf-8"
+  },
+  "Various -- Astounding Stories of Super-Science, August 1930": {
+    "title": "Astounding Stories of Super-Science, August 1930",
+    "author": "Various",
+    "downloads": 233,
+    "book_id": 29768,
+    "text_url": "https://www.gutenberg.org/ebooks/29768.txt.utf-8"
+  },
+  "Andre Norton -- Star Born": {
+    "title": "Star Born",
+    "author": "Andre Norton",
+    "downloads": 233,
+    "book_id": 18458,
+    "text_url": "https://www.gutenberg.org/ebooks/18458.txt.utf-8"
+  },
+  "Jesse F. Bone -- Assassin": {
+    "title": "Assassin",
+    "author": "Jesse F. Bone",
+    "downloads": 232,
+    "book_id": 32237,
+    "text_url": "https://www.gutenberg.org/ebooks/32237.txt.utf-8"
+  },
+  "William Tenn -- Venus is a Man's World": {
+    "title": "Venus is a Man's World",
+    "author": "William Tenn",
+    "downloads": 232,
+    "book_id": 51150,
+    "text_url": "https://www.gutenberg.org/ebooks/51150.txt.utf-8"
+  },
+  "William Richard Bradshaw -- The Goddess of Atvatabar": {
+    "title": "The Goddess of Atvatabar",
+    "author": "William Richard Bradshaw",
+    "downloads": 230,
+    "book_id": 32825,
+    "text_url": "https://www.gutenberg.org/ebooks/32825.txt.utf-8"
+  },
+  "E. E. Smith -- The Galaxy Primes": {
+    "title": "The Galaxy Primes",
+    "author": "E. E. Smith",
+    "downloads": 229,
+    "book_id": 20898,
+    "text_url": "https://www.gutenberg.org/ebooks/20898.txt.utf-8"
+  },
+  "David R. Sparks -- The Winged Men of Orcon: A Complete Novelette": {
+    "title": "The Winged Men of Orcon: A Complete Novelette",
+    "author": "David R. Sparks",
+    "downloads": 229,
+    "book_id": 22176,
+    "text_url": "https://www.gutenberg.org/ebooks/22176.txt.utf-8"
+  },
+  "Philip K. Dick -- The Crystal Crypt": {
+    "title": "The Crystal Crypt",
+    "author": "Philip K. Dick",
+    "downloads": 228,
+    "book_id": 28698,
+    "text_url": "https://www.gutenberg.org/ebooks/28698.txt.utf-8"
+  },
+  "George O. Smith -- Highways in Hiding": {
+    "title": "Highways in Hiding",
+    "author": "George O. Smith",
+    "downloads": 227,
+    "book_id": 20519,
+    "text_url": "https://www.gutenberg.org/ebooks/20519.txt.utf-8"
+  },
+  "Randall Garrett -- Damned If You Don't": {
+    "title": "Damned If You Don't",
+    "author": "Randall Garrett",
+    "downloads": 226,
+    "book_id": 24064,
+    "text_url": "https://www.gutenberg.org/ebooks/24064.txt.utf-8"
+  },
+  "Mary E. Bradley Lane -- Mizora: A Prophecy": {
+    "title": "Mizora: A Prophecy",
+    "author": "Mary E. Bradley Lane",
+    "downloads": 225,
+    "book_id": 24750,
+    "text_url": "https://www.gutenberg.org/ebooks/24750.txt.utf-8"
+  },
+  "Various -- Astounding Stories, June, 1931": {
+    "title": "Astounding Stories, June, 1931",
+    "author": "Various",
+    "downloads": 225,
+    "book_id": 31893,
+    "text_url": "https://www.gutenberg.org/ebooks/31893.txt.utf-8"
+  },
+  "Philip K. Dick -- The Gun": {
+    "title": "The Gun",
+    "author": "Philip K. Dick",
+    "downloads": 223,
+    "book_id": 29132,
+    "text_url": "https://www.gutenberg.org/ebooks/29132.txt.utf-8"
+  },
+  "Ralph Williams -- Cat and Mouse": {
+    "title": "Cat and Mouse",
+    "author": "Ralph Williams",
+    "downloads": 223,
+    "book_id": 24392,
+    "text_url": "https://www.gutenberg.org/ebooks/24392.txt.utf-8"
+  },
+  "Harry Harrison -- Planet of the Damned": {
+    "title": "Planet of the Damned",
+    "author": "Harry Harrison",
+    "downloads": 221,
+    "book_id": 21873,
+    "text_url": "https://www.gutenberg.org/ebooks/21873.txt.utf-8"
+  },
+  "Ray Bradbury -- A Little Journey": {
+    "title": "A Little Journey",
+    "author": "Ray Bradbury",
+    "downloads": 221,
+    "book_id": 51171,
+    "text_url": "https://www.gutenberg.org/ebooks/51171.txt.utf-8"
+  },
+  "Jr. John W. Campbell -- Islands of Space": {
+    "title": "Islands of Space",
+    "author": "Jr. John W. Campbell",
+    "downloads": 220,
+    "book_id": 20988,
+    "text_url": "https://www.gutenberg.org/ebooks/20988.txt.utf-8"
+  },
+  "Andre Norton -- Ralestone Luck": {
+    "title": "Ralestone Luck",
+    "author": "Andre Norton",
+    "downloads": 220,
+    "book_id": 18817,
+    "text_url": "https://www.gutenberg.org/ebooks/18817.txt.utf-8"
+  },
+  "Ralph Milne Farley -- The Radio Planet": {
+    "title": "The Radio Planet",
+    "author": "Ralph Milne Farley",
+    "downloads": 217,
+    "book_id": 52326,
+    "text_url": "https://www.gutenberg.org/ebooks/52326.txt.utf-8"
+  },
+  "Carey Rockwell -- On the Trail of the Space Pirates": {
+    "title": "On the Trail of the Space Pirates",
+    "author": "Carey Rockwell",
+    "downloads": 217,
+    "book_id": 21092,
+    "text_url": "https://www.gutenberg.org/ebooks/21092.txt.utf-8"
+  },
+  "Evelyn E. Smith -- Helpfully Yours": {
+    "title": "Helpfully Yours",
+    "author": "Evelyn E. Smith",
+    "downloads": 216,
+    "book_id": 31644,
+    "text_url": "https://www.gutenberg.org/ebooks/31644.txt.utf-8"
+  },
+  "Charles V. De Vet -- Metamorphosis": {
+    "title": "Metamorphosis",
+    "author": "Charles V. De Vet",
+    "downloads": 214,
+    "book_id": 51713,
+    "text_url": "https://www.gutenberg.org/ebooks/51713.txt.utf-8"
+  },
+  "Marion Zimmer Bradley -- The Door Through Space": {
+    "title": "The Door Through Space",
+    "author": "Marion Zimmer Bradley",
+    "downloads": 213,
+    "book_id": 19726,
+    "text_url": "https://www.gutenberg.org/ebooks/19726.txt.utf-8"
+  },
+  "Philip K. Dick -- Piper in the Woods": {
+    "title": "Piper in the Woods",
+    "author": "Philip K. Dick",
+    "downloads": 213,
+    "book_id": 32832,
+    "text_url": "https://www.gutenberg.org/ebooks/32832.txt.utf-8"
+  },
+  "Harry Harrison -- The Misplaced Battleship": {
+    "title": "The Misplaced Battleship",
+    "author": "Harry Harrison",
+    "downloads": 213,
+    "book_id": 22541,
+    "text_url": "https://www.gutenberg.org/ebooks/22541.txt.utf-8"
+  },
+  "George Chetwynd Griffith -- The mummy and Miss Nitocris : a phantasy of the fourth dimension": {
+    "title": "The mummy and Miss Nitocris : a phantasy of the fourth dimension",
+    "author": "George Chetwynd Griffith",
+    "downloads": 211,
+    "book_id": 19231,
+    "text_url": "https://www.gutenberg.org/ebooks/19231.txt.utf-8"
+  },
+  "Philip José Farmer -- They Twinkled Like Jewels": {
+    "title": "They Twinkled Like Jewels",
+    "author": "Philip José Farmer",
+    "downloads": 209,
+    "book_id": 29559,
+    "text_url": "https://www.gutenberg.org/ebooks/29559.txt.utf-8"
+  },
+  "Randall Garrett and Laurence M. Janifer -- Pagan Passions": {
+    "title": "Pagan Passions",
+    "author": "Randall Garrett and Laurence M. Janifer",
+    "downloads": 208,
+    "book_id": 22767,
+    "text_url": "https://www.gutenberg.org/ebooks/22767.txt.utf-8"
+  },
+  "Daniel F. Galouye -- The Chasers": {
+    "title": "The Chasers",
+    "author": "Daniel F. Galouye",
+    "downloads": 207,
+    "book_id": 51508,
+    "text_url": "https://www.gutenberg.org/ebooks/51508.txt.utf-8"
+  },
+  "H. Beam Piper -- Ministry of Disturbance": {
+    "title": "Ministry of Disturbance",
+    "author": "H. Beam Piper",
+    "downloads": 203,
+    "book_id": 20659,
+    "text_url": "https://www.gutenberg.org/ebooks/20659.txt.utf-8"
+  },
+  "Various -- Astounding Stories of Super-Science September 1930": {
+    "title": "Astounding Stories of Super-Science September 1930",
+    "author": "Various",
+    "downloads": 203,
+    "book_id": 29255,
+    "text_url": "https://www.gutenberg.org/ebooks/29255.txt.utf-8"
+  },
+  "Jerome Bixby -- The Holes Around Mars": {
+    "title": "The Holes Around Mars",
+    "author": "Jerome Bixby",
+    "downloads": 201,
+    "book_id": 32360,
+    "text_url": "https://www.gutenberg.org/ebooks/32360.txt.utf-8"
+  },
+  "Various -- Astounding Stories, July, 1931": {
+    "title": "Astounding Stories, July, 1931",
+    "author": "Various",
+    "downloads": 201,
+    "book_id": 31168,
+    "text_url": "https://www.gutenberg.org/ebooks/31168.txt.utf-8"
+  },
+  "Frederik Pohl -- The Knights of Arthur": {
+    "title": "The Knights of Arthur",
+    "author": "Frederik Pohl",
+    "downloads": 200,
+    "book_id": 32004,
+    "text_url": "https://www.gutenberg.org/ebooks/32004.txt.utf-8"
+  },
+  "Poul Anderson -- The Valor of Cappen Varra": {
+    "title": "The Valor of Cappen Varra",
+    "author": "Poul Anderson",
+    "downloads": 200,
+    "book_id": 29542,
+    "text_url": "https://www.gutenberg.org/ebooks/29542.txt.utf-8"
+  },
+  "Murray Leinster -- The Forgotten Planet": {
+    "title": "The Forgotten Planet",
+    "author": "Murray Leinster",
+    "downloads": 197,
+    "book_id": 41637,
+    "text_url": "https://www.gutenberg.org/ebooks/41637.txt.utf-8"
+  },
+  "E. E. Smith -- Spacehounds of IPC": {
+    "title": "Spacehounds of IPC",
+    "author": "E. E. Smith",
+    "downloads": 194,
+    "book_id": 20857,
+    "text_url": "https://www.gutenberg.org/ebooks/20857.txt.utf-8"
+  },
+  "H. Beam Piper -- Police Operation": {
+    "title": "Police Operation",
+    "author": "H. Beam Piper",
+    "downloads": 192,
+    "book_id": 19067,
+    "text_url": "https://www.gutenberg.org/ebooks/19067.txt.utf-8"
+  },
+  "Robert Silverberg -- Starman's Quest": {
+    "title": "Starman's Quest",
+    "author": "Robert Silverberg",
+    "downloads": 192,
+    "book_id": 27444,
+    "text_url": "https://www.gutenberg.org/ebooks/27444.txt.utf-8"
+  },
+  "Ray Bradbury -- Futuria Fantasia, Summer 1939": {
+    "title": "Futuria Fantasia, Summer 1939",
+    "author": "Ray Bradbury",
+    "downloads": 191,
+    "book_id": 41622,
+    "text_url": "https://www.gutenberg.org/ebooks/41622.txt.utf-8"
+  },
+  "Jr. John W. Campbell -- The Black Star Passes": {
+    "title": "The Black Star Passes",
+    "author": "Jr. John W. Campbell",
+    "downloads": 191,
+    "book_id": 20707,
+    "text_url": "https://www.gutenberg.org/ebooks/20707.txt.utf-8"
+  },
+  "Katherine MacLean -- Contagion": {
+    "title": "Contagion",
+    "author": "Katherine MacLean",
+    "downloads": 190,
+    "book_id": 50774,
+    "text_url": "https://www.gutenberg.org/ebooks/50774.txt.utf-8"
+  },
+  "Murray Leinster -- The Aliens": {
+    "title": "The Aliens",
+    "author": "Murray Leinster",
+    "downloads": 190,
+    "book_id": 24104,
+    "text_url": "https://www.gutenberg.org/ebooks/24104.txt.utf-8"
+  },
+  "Mack Reynolds -- The Common Man": {
+    "title": "The Common Man",
+    "author": "Mack Reynolds",
+    "downloads": 189,
+    "book_id": 23194,
+    "text_url": "https://www.gutenberg.org/ebooks/23194.txt.utf-8"
+  },
+  "Carey Rockwell -- The Space Pioneers": {
+    "title": "The Space Pioneers",
+    "author": "Carey Rockwell",
+    "downloads": 188,
+    "book_id": 18753,
+    "text_url": "https://www.gutenberg.org/ebooks/18753.txt.utf-8"
+  },
+  "Fletcher Pratt -- The Blue Star": {
+    "title": "The Blue Star",
+    "author": "Fletcher Pratt",
+    "downloads": 186,
+    "book_id": 56889,
+    "text_url": "https://www.gutenberg.org/ebooks/56889.txt.utf-8"
+  },
+  "William Hope Hodgson -- The Ghost Pirates": {
+    "title": "The Ghost Pirates",
+    "author": "William Hope Hodgson",
+    "downloads": 186,
+    "book_id": 10966,
+    "text_url": "https://www.gutenberg.org/ebooks/10966.txt.utf-8"
+  },
+  "Ray Cummings -- Tarrano the Conqueror": {
+    "title": "Tarrano the Conqueror",
+    "author": "Ray Cummings",
+    "downloads": 185,
+    "book_id": 21638,
+    "text_url": "https://www.gutenberg.org/ebooks/21638.txt.utf-8"
+  },
+  "Fritz Leiber -- The Creature from Cleveland Depths": {
+    "title": "The Creature from Cleveland Depths",
+    "author": "Fritz Leiber",
+    "downloads": 184,
+    "book_id": 23164,
+    "text_url": "https://www.gutenberg.org/ebooks/23164.txt.utf-8"
+  },
+  "Cory Doctorow -- Craphound": {
+    "title": "Craphound",
+    "author": "Cory Doctorow",
+    "downloads": 183,
+    "book_id": 17026,
+    "text_url": "https://www.gutenberg.org/ebooks/17026.txt.utf-8"
+  },
+  "H. Beam Piper -- Uller Uprising": {
+    "title": "Uller Uprising",
+    "author": "H. Beam Piper",
+    "downloads": 182,
+    "book_id": 19474,
+    "text_url": "https://www.gutenberg.org/ebooks/19474.txt.utf-8"
+  },
+  "Murray Leinster -- Third Planet": {
+    "title": "Third Planet",
+    "author": "Murray Leinster",
+    "downloads": 181,
+    "book_id": 52574,
+    "text_url": "https://www.gutenberg.org/ebooks/52574.txt.utf-8"
+  },
+  "Poul Anderson -- Sentiment, Inc.": {
+    "title": "Sentiment, Inc.",
+    "author": "Poul Anderson",
+    "downloads": 181,
+    "book_id": 37653,
+    "text_url": "https://www.gutenberg.org/ebooks/37653.txt.utf-8"
+  },
+  "H. Beam Piper -- Last Enemy": {
+    "title": "Last Enemy",
+    "author": "H. Beam Piper",
+    "downloads": 180,
+    "book_id": 18800,
+    "text_url": "https://www.gutenberg.org/ebooks/18800.txt.utf-8"
+  }
+}

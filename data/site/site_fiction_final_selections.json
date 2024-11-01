@@ -1,0 +1,506 @@
+{
+  "Mary Wollstonecraft Shelley -- Frankenstein; Or, The Modern Prometheus": {
+    "title": "Frankenstein; Or, The Modern Prometheus",
+    "author": "Mary Wollstonecraft Shelley",
+    "downloads": 8902,
+    "book_id": 42324,
+    "text_url": "https://www.gutenberg.org/ebooks/42324.txt.utf-8"
+  },
+  "Herman Melville -- Moby Dick; Or, The Whale": {
+    "title": "Moby Dick; Or, The Whale",
+    "author": "Herman Melville",
+    "downloads": 75161,
+    "book_id": 2701,
+    "text_url": "https://www.gutenberg.org/ebooks/2701.txt.utf-8"
+  },
+  "E. M. Forster -- A Room with a View": {
+    "title": "A Room with a View",
+    "author": "E. M. Forster",
+    "downloads": 52519,
+    "book_id": 2641,
+    "text_url": "https://www.gutenberg.org/ebooks/2641.txt.utf-8"
+  },
+  "Louisa May Alcott -- Little Women; Or, Meg, Jo, Beth, and Amy": {
+    "title": "Little Women; Or, Meg, Jo, Beth, and Amy",
+    "author": "Louisa May Alcott",
+    "downloads": 50428,
+    "book_id": 37106,
+    "text_url": "https://www.gutenberg.org/ebooks/37106.txt.utf-8"
+  },
+  "L. M. Montgomery -- The Blue Castle: a novel": {
+    "title": "The Blue Castle: a novel",
+    "author": "L. M. Montgomery",
+    "downloads": 45661,
+    "book_id": 67979,
+    "text_url": "https://www.gutenberg.org/ebooks/67979.txt.utf-8"
+  },
+  "Elizabeth Von Arnim -- The Enchanted April": {
+    "title": "The Enchanted April",
+    "author": "Elizabeth Von Arnim",
+    "downloads": 45389,
+    "book_id": 16389,
+    "text_url": "https://www.gutenberg.org/ebooks/16389.txt.utf-8"
+  },
+  "T. Smollett -- The Adventures of Ferdinand Count Fathom \u2014 Complete": {
+    "title": "The Adventures of Ferdinand Count Fathom \u2014 Complete",
+    "author": "T. Smollett",
+    "downloads": 42339,
+    "book_id": 6761,
+    "text_url": "https://www.gutenberg.org/ebooks/6761.txt.utf-8"
+  },
+  "Elizabeth Cleghorn Gaskell -- Cranford": {
+    "title": "Cranford",
+    "author": "Elizabeth Cleghorn Gaskell",
+    "downloads": 42213,
+    "book_id": 394,
+    "text_url": "https://www.gutenberg.org/ebooks/394.txt.utf-8"
+  },
+  "T. Smollett -- The Expedition of Humphry Clinker": {
+    "title": "The Expedition of Humphry Clinker",
+    "author": "T. Smollett",
+    "downloads": 41565,
+    "book_id": 2160,
+    "text_url": "https://www.gutenberg.org/ebooks/2160.txt.utf-8"
+  },
+  "Henry Fielding -- History of Tom Jones, a Foundling": {
+    "title": "History of Tom Jones, a Foundling",
+    "author": "Henry Fielding",
+    "downloads": 41332,
+    "book_id": 6593,
+    "text_url": "https://www.gutenberg.org/ebooks/6593.txt.utf-8"
+  },
+  "T. Smollett -- The Adventures of Roderick Random": {
+    "title": "The Adventures of Roderick Random",
+    "author": "T. Smollett",
+    "downloads": 41053,
+    "book_id": 4085,
+    "text_url": "https://www.gutenberg.org/ebooks/4085.txt.utf-8"
+  },
+  "F. Scott Fitzgerald -- The Great Gatsby": {
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "downloads": 32758,
+    "book_id": 64317,
+    "text_url": "https://www.gutenberg.org/ebooks/64317.txt.utf-8"
+  },
+  "Franz Kafka -- Metamorphosis": {
+    "title": "Metamorphosis",
+    "author": "Franz Kafka",
+    "downloads": 31426,
+    "book_id": 5200,
+    "text_url": "https://www.gutenberg.org/ebooks/5200.txt.utf-8"
+  },
+  "Charlotte Perkins Gilman -- The Yellow Wallpaper": {
+    "title": "The Yellow Wallpaper",
+    "author": "Charlotte Perkins Gilman",
+    "downloads": 29962,
+    "book_id": 1952,
+    "text_url": "https://www.gutenberg.org/ebooks/1952.txt.utf-8"
+  },
+  "Washington Irving -- The Legend of Sleepy Hollow": {
+    "title": "The Legend of Sleepy Hollow",
+    "author": "Washington Irving",
+    "downloads": 28746,
+    "book_id": 41,
+    "text_url": "https://www.gutenberg.org/ebooks/41.txt.utf-8"
+  },
+  "Mark Twain -- Adventures of Huckleberry Finn": {
+    "title": "Adventures of Huckleberry Finn",
+    "author": "Mark Twain",
+    "downloads": 28493,
+    "book_id": 76,
+    "text_url": "https://www.gutenberg.org/ebooks/76.txt.utf-8"
+  },
+  "Robert Louis Stevenson -- The Strange Case of Dr. Jekyll and Mr. Hyde": {
+    "title": "The Strange Case of Dr. Jekyll and Mr. Hyde",
+    "author": "Robert Louis Stevenson",
+    "downloads": 4817,
+    "book_id": 42,
+    "text_url": "https://www.gutenberg.org/ebooks/42.txt.utf-8"
+  },
+  "Charles Dickens -- A Tale of Two Cities": {
+    "title": "A Tale of Two Cities",
+    "author": "Charles Dickens",
+    "downloads": 22135,
+    "book_id": 98,
+    "text_url": "https://www.gutenberg.org/ebooks/98.txt.utf-8"
+  },
+  "Arthur Conan Doyle -- The Adventures of Sherlock Holmes": {
+    "title": "The Adventures of Sherlock Holmes",
+    "author": "Arthur Conan Doyle",
+    "downloads": 20168,
+    "book_id": 1661,
+    "text_url": "https://www.gutenberg.org/ebooks/1661.txt.utf-8"
+  },
+  "Charlotte Bront\u00eb -- Jane Eyre: An Autobiography": {
+    "title": "Jane Eyre: An Autobiography",
+    "author": "Charlotte Bront\u00eb",
+    "downloads": 19423,
+    "book_id": 1260,
+    "text_url": "https://www.gutenberg.org/ebooks/1260.txt.utf-8"
+  },
+  "Charles Dickens -- A Christmas Carol in Prose; Being a Ghost Story of Christmas": {
+    "title": "A Christmas Carol in Prose; Being a Ghost Story of Christmas",
+    "author": "Charles Dickens",
+    "downloads": 18461,
+    "book_id": 46,
+    "text_url": "https://www.gutenberg.org/ebooks/46.txt.utf-8"
+  },
+  "Joseph Conrad -- Heart of Darkness": {
+    "title": "Heart of Darkness",
+    "author": "Joseph Conrad",
+    "downloads": 15513,
+    "book_id": 219,
+    "text_url": "https://www.gutenberg.org/ebooks/219.txt.utf-8"
+  },
+  "Mark Twain -- The Adventures of Tom Sawyer, Complete": {
+    "title": "The Adventures of Tom Sawyer, Complete",
+    "author": "Mark Twain",
+    "downloads": 15589,
+    "book_id": 74,
+    "text_url": "https://www.gutenberg.org/ebooks/74.txt.utf-8"
+  },
+  "Emily Bront\u00eb -- Wuthering Heights": {
+    "title": "Wuthering Heights",
+    "author": "Emily Bront\u00eb",
+    "downloads": 15031,
+    "book_id": 768,
+    "text_url": "https://www.gutenberg.org/ebooks/768.txt.utf-8"
+  },
+  "Arthur Conan Doyle -- A Study in Scarlet": {
+    "title": "A Study in Scarlet",
+    "author": "Arthur Conan Doyle",
+    "downloads": 12687,
+    "book_id": 244,
+    "text_url": "https://www.gutenberg.org/ebooks/244.txt.utf-8"
+  },
+  "Daniel Defoe -- The Life and Adventures of Robinson Crusoe": {
+    "title": "The Life and Adventures of Robinson Crusoe",
+    "author": "Daniel Defoe",
+    "downloads": 8360,
+    "book_id": 521,
+    "text_url": "https://www.gutenberg.org/ebooks/521.txt.utf-8"
+  },
+  "H. G. Wells -- The War of the Worlds": {
+    "title": "The War of the Worlds",
+    "author": "H. G. Wells",
+    "downloads": 7878,
+    "book_id": 36,
+    "text_url": "https://www.gutenberg.org/ebooks/36.txt.utf-8"
+  },
+  "Agatha Christie -- The murder of Roger Ackroyd": {
+    "title": "The murder of Roger Ackroyd",
+    "author": "Agatha Christie",
+    "downloads": 7756,
+    "book_id": 69087,
+    "text_url": "https://www.gutenberg.org/ebooks/69087.txt.utf-8"
+  },
+  "H. G. Wells -- The Time Machine": {
+    "title": "The Time Machine",
+    "author": "H. G. Wells",
+    "downloads": 7227,
+    "book_id": 35,
+    "text_url": "https://www.gutenberg.org/ebooks/35.txt.utf-8"
+  },
+  "Ayn Rand -- Anthem": {
+    "title": "Anthem",
+    "author": "Ayn Rand",
+    "downloads": 6991,
+    "book_id": 1250,
+    "text_url": "https://www.gutenberg.org/ebooks/1250.txt.utf-8"
+  },
+  "Henry James -- The Turn of the Screw": {
+    "title": "The Turn of the Screw",
+    "author": "Henry James",
+    "downloads": 6477,
+    "book_id": 209,
+    "text_url": "https://www.gutenberg.org/ebooks/209.txt.utf-8"
+  },
+  "John William Polidori -- The Vampyre; a Tale": {
+    "title": "The Vampyre; a Tale",
+    "author": "John William Polidori",
+    "downloads": 6359,
+    "book_id": 6087,
+    "text_url": "https://www.gutenberg.org/ebooks/6087.txt.utf-8"
+  },
+  "Jack London -- The call of the wild": {
+    "title": "The call of the wild",
+    "author": "Jack London",
+    "downloads": 6125,
+    "book_id": 215,
+    "text_url": "https://www.gutenberg.org/ebooks/215.txt.utf-8"
+  },
+  "Horace Walpole -- The Castle of Otranto": {
+    "title": "The Castle of Otranto",
+    "author": "Horace Walpole",
+    "downloads": 5925,
+    "book_id": 696,
+    "text_url": "https://www.gutenberg.org/ebooks/696.txt.utf-8"
+  },
+  "Charles Dickens -- Hard Times": {
+    "title": "Hard Times",
+    "author": "Charles Dickens",
+    "downloads": 5516,
+    "book_id": 786,
+    "text_url": "https://www.gutenberg.org/ebooks/786.txt.utf-8"
+  },
+  "Rudyard Kipling -- The Jungle Book": {
+    "title": "The Jungle Book",
+    "author": "Rudyard Kipling",
+    "downloads": 5380,
+    "book_id": 236,
+    "text_url": "https://www.gutenberg.org/ebooks/236.txt.utf-8"
+  },
+  "Hermann Hesse -- Siddhartha": {
+    "title": "Siddhartha",
+    "author": "Hermann Hesse",
+    "downloads": 5344,
+    "book_id": 2500,
+    "text_url": "https://www.gutenberg.org/ebooks/2500.txt.utf-8"
+  },
+  "Kurt Vonnegut -- 2 B R 0 2 B": {
+    "title": "2 B R 0 2 B",
+    "author": "Kurt Vonnegut",
+    "downloads": 5283,
+    "book_id": 21279,
+    "text_url": "https://www.gutenberg.org/ebooks/21279.txt.utf-8"
+  },
+  "Mark Twain -- The Prince and the Pauper": {
+    "title": "The Prince and the Pauper",
+    "author": "Mark Twain",
+    "downloads": 5240,
+    "book_id": 1837,
+    "text_url": "https://www.gutenberg.org/ebooks/1837.txt.utf-8"
+  },
+  "H. G. Wells -- The Invisible Man: A Grotesque Romance": {
+    "title": "The Invisible Man: A Grotesque Romance",
+    "author": "H. G. Wells",
+    "downloads": 5003,
+    "book_id": 5230,
+    "text_url": "https://www.gutenberg.org/ebooks/5230.txt.utf-8"
+  },
+  "Guy de Maupassant -- Complete Original Short Stories of Guy De Maupassant": {
+    "title": "Complete Original Short Stories of Guy De Maupassant",
+    "author": "Guy de Maupassant",
+    "downloads": 4991,
+    "book_id": 3090,
+    "text_url": "https://www.gutenberg.org/ebooks/3090.txt.utf-8"
+  },
+  "Jerome K. Jerome -- Three Men in a Boat (To Say Nothing of the Dog)": {
+    "title": "Three Men in a Boat (To Say Nothing of the Dog)",
+    "author": "Jerome K. Jerome",
+    "downloads": 4819,
+    "book_id": 308,
+    "text_url": "https://www.gutenberg.org/ebooks/308.txt.utf-8"
+  },
+  "Nathaniel Hawthorne -- Mosses from an old manse": {
+    "title": "Mosses from an old manse",
+    "author": "Nathaniel Hawthorne",
+    "downloads": 4794,
+    "book_id": 512,
+    "text_url": "https://www.gutenberg.org/ebooks/512.txt.utf-8"
+  },
+  "Edith Wharton -- Ethan Frome": {
+    "title": "Ethan Frome",
+    "author": "Edith Wharton",
+    "downloads": 4753,
+    "book_id": 4517,
+    "text_url": "https://www.gutenberg.org/ebooks/4517.txt.utf-8"
+  },
+  "Philip K. Dick -- The Eyes Have It": {
+    "title": "The Eyes Have It",
+    "author": "Philip K. Dick",
+    "downloads": 4650,
+    "book_id": 31516,
+    "text_url": "https://www.gutenberg.org/ebooks/31516.txt.utf-8"
+  },
+  "H. G. Wells -- The Red Room": {
+    "title": "The Red Room",
+    "author": "H. G. Wells",
+    "downloads": 4650,
+    "book_id": 23218,
+    "text_url": "https://www.gutenberg.org/ebooks/23218.txt.utf-8"
+  },
+  "H. G. Wells -- The island of Doctor Moreau": {
+    "title": "The island of Doctor Moreau",
+    "author": "H. G. Wells",
+    "downloads": 3859,
+    "book_id": 159,
+    "text_url": "https://www.gutenberg.org/ebooks/159.txt.utf-8"
+  },
+  "Agatha Christie -- The Mysterious Affair at Styles": {
+    "title": "The Mysterious Affair at Styles",
+    "author": "Agatha Christie",
+    "downloads": 3755,
+    "book_id": 863,
+    "text_url": "https://www.gutenberg.org/ebooks/863.txt.utf-8"
+  },
+  "Oscar Wilde -- The Happy Prince, and Other Tales": {
+    "title": "The Happy Prince, and Other Tales",
+    "author": "Oscar Wilde",
+    "downloads": 3736,
+    "book_id": 902,
+    "text_url": "https://www.gutenberg.org/ebooks/902.txt.utf-8"
+  },
+  "Jack London -- White Fang": {
+    "title": "White Fang",
+    "author": "Jack London",
+    "downloads": 3731,
+    "book_id": 910,
+    "text_url": "https://www.gutenberg.org/ebooks/910.txt.utf-8"
+  },
+  "Beatrix Potter -- The Tale of Peter Rabbit": {
+    "title": "The Tale of Peter Rabbit",
+    "author": "Beatrix Potter",
+    "downloads": 3617,
+    "book_id": 14838,
+    "text_url": "https://www.gutenberg.org/ebooks/14838.txt.utf-8"
+  },
+  "William Makepeace Thackeray -- Vanity Fair": {
+    "title": "Vanity Fair",
+    "author": "William Makepeace Thackeray",
+    "downloads": 3603,
+    "book_id": 599,
+    "text_url": "https://www.gutenberg.org/ebooks/599.txt.utf-8"
+  },
+  "Virginia Woolf -- Mrs. Dalloway": {
+    "title": "Mrs. Dalloway",
+    "author": "Virginia Woolf",
+    "downloads": 3585,
+    "book_id": 71865,
+    "text_url": "https://www.gutenberg.org/ebooks/71865.txt.utf-8"
+  },
+  "Mark Twain -- A Connecticut Yankee in King Arthur's Court": {
+    "title": "A Connecticut Yankee in King Arthur's Court",
+    "author": "Mark Twain",
+    "downloads": 3524,
+    "book_id": 86,
+    "text_url": "https://www.gutenberg.org/ebooks/86.txt.utf-8"
+  },
+  "Ernest Hemingway -- The Sun Also Rises": {
+    "title": "The Sun Also Rises",
+    "author": "Ernest Hemingway",
+    "downloads": 3510,
+    "book_id": 67138,
+    "text_url": "https://www.gutenberg.org/ebooks/67138.txt.utf-8"
+  },
+  "Edgar Allan Poe -- The Fall of the House of Usher": {
+    "title": "The Fall of the House of Usher",
+    "author": "Edgar Allan Poe",
+    "downloads": 3456,
+    "book_id": 932,
+    "text_url": "https://www.gutenberg.org/ebooks/932.txt.utf-8"
+  },
+  "W. W. Jacobs -- The Monkey's Paw": {
+    "title": "The Monkey's Paw",
+    "author": "W. W. Jacobs",
+    "downloads": 3424,
+    "book_id": 12122,
+    "text_url": "https://www.gutenberg.org/ebooks/12122.txt.utf-8"
+  },
+  "Gaston Leroux -- The Phantom of the Opera": {
+    "title": "The Phantom of the Opera",
+    "author": "Gaston Leroux",
+    "downloads": 3389,
+    "book_id": 175,
+    "text_url": "https://www.gutenberg.org/ebooks/175.txt.utf-8"
+  },
+  "Edgar Allan Poe -- The Cask of Amontillado": {
+    "title": "The Cask of Amontillado",
+    "author": "Edgar Allan Poe",
+    "downloads": 3335,
+    "book_id": 1063,
+    "text_url": "https://www.gutenberg.org/ebooks/1063.txt.utf-8"
+  },
+  "Jules Verne -- A Journey to the Centre of the Earth": {
+    "title": "A Journey to the Centre of the Earth",
+    "author": "Jules Verne",
+    "downloads": 3334,
+    "book_id": 18857,
+    "text_url": "https://www.gutenberg.org/ebooks/18857.txt.utf-8"
+  },
+  "Arthur Conan Doyle -- The Valley of Fear": {
+    "title": "The Valley of Fear",
+    "author": "Arthur Conan Doyle",
+    "downloads": 3328,
+    "book_id": 3289,
+    "text_url": "https://www.gutenberg.org/ebooks/3289.txt.utf-8"
+  },
+  "Mark Twain -- The Mysterious Stranger, and Other Stories": {
+    "title": "The Mysterious Stranger, and Other Stories",
+    "author": "Mark Twain",
+    "downloads": 3273,
+    "book_id": 3186,
+    "text_url": "https://www.gutenberg.org/ebooks/3186.txt.utf-8"
+  },
+  "Elizabeth Cleghorn Gaskell -- North and South": {
+    "title": "North and South",
+    "author": "Elizabeth Cleghorn Gaskell",
+    "downloads": 3111,
+    "book_id": 4276,
+    "text_url": "https://www.gutenberg.org/ebooks/4276.txt.utf-8"
+  },
+  "Edgar Allan Poe -- The Masque of the Red Death": {
+    "title": "The Masque of the Red Death",
+    "author": "Edgar Allan Poe",
+    "downloads": 3098,
+    "book_id": 1064,
+    "text_url": "https://www.gutenberg.org/ebooks/1064.txt.utf-8"
+  },
+  "Anna Sewell -- Black Beauty": {
+    "title": "Black Beauty",
+    "author": "Anna Sewell",
+    "downloads": 3048,
+    "book_id": 271,
+    "text_url": "https://www.gutenberg.org/ebooks/271.txt.utf-8"
+  },
+  "J. M. Barrie -- Peter and Wendy": {
+    "title": "Peter and Wendy",
+    "author": "J. M. Barrie",
+    "downloads": 2971,
+    "book_id": 26654,
+    "text_url": "https://www.gutenberg.org/ebooks/26654.txt.utf-8"
+  },
+  "Evgenii Ivanovich Zamiatin -- We": {
+    "title": "We",
+    "author": "Evgenii Ivanovich Zamiatin",
+    "downloads": 2971,
+    "book_id": 61963,
+    "text_url": "https://www.gutenberg.org/ebooks/61963.txt.utf-8"
+  },
+  "E. M. Forster -- A passage to India": {
+    "title": "A passage to India",
+    "author": "E. M. Forster",
+    "downloads": 2962,
+    "book_id": 61221,
+    "text_url": "https://www.gutenberg.org/ebooks/61221.txt.utf-8"
+  },
+  "L. M. Montgomery -- Anne of the Island": {
+    "title": "Anne of the Island",
+    "author": "L. M. Montgomery",
+    "downloads": 2942,
+    "book_id": 51,
+    "text_url": "https://www.gutenberg.org/ebooks/51.txt.utf-8"
+  },
+  "Arthur Conan Doyle -- The Memoirs of Sherlock Holmes": {
+    "title": "The Memoirs of Sherlock Holmes",
+    "author": "Arthur Conan Doyle",
+    "downloads": 2934,
+    "book_id": 834,
+    "text_url": "https://www.gutenberg.org/ebooks/834.txt.utf-8"
+  },
+  "Algernon Blackwood -- The Wendigo": {
+    "title": "The Wendigo",
+    "author": "Algernon Blackwood",
+    "downloads": 2871,
+    "book_id": 10897,
+    "text_url": "https://www.gutenberg.org/ebooks/10897.txt.utf-8"
+  },
+  "Kenneth Grahame -- The Wind in the Willows": {
+    "title": "The Wind in the Willows",
+    "author": "Kenneth Grahame",
+    "downloads": 2963,
+    "book_id": 289,
+    "text_url": "https://www.gutenberg.org/ebooks/289.txt.utf-8"
+  }
+}

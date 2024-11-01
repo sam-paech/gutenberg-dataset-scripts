@@ -1,0 +1,597 @@
+{
+  "Sir Thomas Malory -- Le Morte d'Arthur: Volume 1": {
+    "title": "Le Morte d'Arthur: Volume 1",
+    "author": "Sir Thomas Malory",
+    "downloads": 11628,
+    "book_id": 1251,
+    "text_url": "https://www.gutenberg.org/ebooks/1251.txt.utf-8"
+  },
+  "L. Frank Baum -- The Wonderful Wizard of Oz": {
+    "title": "The Wonderful Wizard of Oz",
+    "author": "L. Frank Baum",
+    "downloads": 9242,
+    "book_id": 55,
+    "text_url": "https://www.gutenberg.org/ebooks/55.txt.utf-8"
+  },
+  "Howard Pyle -- The Merry Adventures of Robin Hood": {
+    "title": "The Merry Adventures of Robin Hood",
+    "author": "Howard Pyle",
+    "downloads": 542,
+    "book_id": 964,
+    "text_url": "https://www.gutenberg.org/ebooks/964.txt.utf-8"
+  },
+  "Sir Thomas Malory -- Le Morte d'Arthur: Volume 2": {
+    "title": "Le Morte d'Arthur: Volume 2",
+    "author": "Sir Thomas Malory",
+    "downloads": 1965,
+    "book_id": 1252,
+    "text_url": "https://www.gutenberg.org/ebooks/1252.txt.utf-8"
+  },
+  "Sir Thomas Malory and Sir James Knowles -- The Legends of King Arthur and His Knights": {
+    "title": "The Legends of King Arthur and His Knights",
+    "author": "Sir Thomas Malory and Sir James Knowles",
+    "downloads": 1794,
+    "book_id": 12753,
+    "text_url": "https://www.gutenberg.org/ebooks/12753.txt.utf-8"
+  },
+  "L. Frank Baum -- The Marvelous Land of Oz": {
+    "title": "The Marvelous Land of Oz",
+    "author": "L. Frank Baum",
+    "downloads": 446,
+    "book_id": 19466,
+    "text_url": "https://www.gutenberg.org/ebooks/19466.txt.utf-8"
+  },
+  "active 12th century de Troyes Chrétien -- Four Arthurian Romances": {
+    "title": "Four Arthurian Romances",
+    "author": "active 12th century de Troyes Chrétien",
+    "downloads": 1207,
+    "book_id": 831,
+    "text_url": "https://www.gutenberg.org/ebooks/831.txt.utf-8"
+  },
+  "L. Frank Baum -- Dorothy and the Wizard in Oz": {
+    "title": "Dorothy and the Wizard in Oz",
+    "author": "L. Frank Baum",
+    "downloads": 265,
+    "book_id": 420,
+    "text_url": "https://www.gutenberg.org/ebooks/420.txt.utf-8"
+  },
+  "William Morris -- News from Nowhere; Or, An Epoch of Rest": {
+    "title": "News from Nowhere; Or, An Epoch of Rest",
+    "author": "William Morris",
+    "downloads": 967,
+    "book_id": 3261,
+    "text_url": "https://www.gutenberg.org/ebooks/3261.txt.utf-8"
+  },
+  "Lord Dunsany -- The Book of Wonder": {
+    "title": "The Book of Wonder",
+    "author": "Lord Dunsany",
+    "downloads": 895,
+    "book_id": 7477,
+    "text_url": "https://www.gutenberg.org/ebooks/7477.txt.utf-8"
+  },
+  "James Stephens -- Irish Fairy Tales": {
+    "title": "Irish Fairy Tales",
+    "author": "James Stephens",
+    "downloads": 868,
+    "book_id": 2892,
+    "text_url": "https://www.gutenberg.org/ebooks/2892.txt.utf-8"
+  },
+  "William Hope Hodgson -- The House on the Borderland": {
+    "title": "The House on the Borderland",
+    "author": "William Hope Hodgson",
+    "downloads": 759,
+    "book_id": 10002,
+    "text_url": "https://www.gutenberg.org/ebooks/10002.txt.utf-8"
+  },
+  "J. Walker McSpadden -- Robin Hood": {
+    "title": "Robin Hood",
+    "author": "J. Walker McSpadden",
+    "downloads": 611,
+    "book_id": 832,
+    "text_url": "https://www.gutenberg.org/ebooks/832.txt.utf-8"
+  },
+  "William Hope Hodgson -- The Night Land": {
+    "title": "The Night Land",
+    "author": "William Hope Hodgson",
+    "downloads": 592,
+    "book_id": 10662,
+    "text_url": "https://www.gutenberg.org/ebooks/10662.txt.utf-8"
+  },
+  "Lord Dunsany -- The Gods of Pegana": {
+    "title": "The Gods of Pegana",
+    "author": "Lord Dunsany",
+    "downloads": 584,
+    "book_id": 8395,
+    "text_url": "https://www.gutenberg.org/ebooks/8395.txt.utf-8"
+  },
+  "William Morris -- The Story of Sigurd the Volsung and the Fall of the Niblungs": {
+    "title": "The Story of Sigurd the Volsung and the Fall of the Niblungs",
+    "author": "William Morris",
+    "downloads": 490,
+    "book_id": 18328,
+    "text_url": "https://www.gutenberg.org/ebooks/18328.txt.utf-8"
+  },
+  "L. Frank Baum -- The Lost Princess of Oz": {
+    "title": "The Lost Princess of Oz",
+    "author": "L. Frank Baum",
+    "downloads": 463,
+    "book_id": 959,
+    "text_url": "https://www.gutenberg.org/ebooks/959.txt.utf-8"
+  },
+  "William Morris -- The Well at the World's End: A Tale": {
+    "title": "The Well at the World's End: A Tale",
+    "author": "William Morris",
+    "downloads": 452,
+    "book_id": 169,
+    "text_url": "https://www.gutenberg.org/ebooks/169.txt.utf-8"
+  },
+  "Howard Pyle -- Men of Iron": {
+    "title": "Men of Iron",
+    "author": "Howard Pyle",
+    "downloads": 444,
+    "book_id": 1557,
+    "text_url": "https://www.gutenberg.org/ebooks/1557.txt.utf-8"
+  },
+  "William Morris -- The House of the Wolfings": {
+    "title": "The House of the Wolfings",
+    "author": "William Morris",
+    "downloads": 357,
+    "book_id": 2885,
+    "text_url": "https://www.gutenberg.org/ebooks/2885.txt.utf-8"
+  },
+  "Lord Dunsany -- Time and the Gods": {
+    "title": "Time and the Gods",
+    "author": "Lord Dunsany",
+    "downloads": 328,
+    "book_id": 8183,
+    "text_url": "https://www.gutenberg.org/ebooks/8183.txt.utf-8"
+  },
+  "Lord Dunsany -- The Sword of Welleran and Other Stories": {
+    "title": "The Sword of Welleran and Other Stories",
+    "author": "Lord Dunsany",
+    "downloads": 327,
+    "book_id": 10806,
+    "text_url": "https://www.gutenberg.org/ebooks/10806.txt.utf-8"
+  },
+  "William Morris -- The Wood Beyond the World": {
+    "title": "The Wood Beyond the World",
+    "author": "William Morris",
+    "downloads": 236,
+    "book_id": 3055,
+    "text_url": "https://www.gutenberg.org/ebooks/3055.txt.utf-8"
+  },
+  "Lord Dunsany -- A Dreamer's Tales": {
+    "title": "A Dreamer's Tales",
+    "author": "Lord Dunsany",
+    "downloads": 227,
+    "book_id": 8129,
+    "text_url": "https://www.gutenberg.org/ebooks/8129.txt.utf-8"
+  },
+  "active 12th century de Troyes Chrétien -- Cliges: A Romance": {
+    "title": "Cliges: A Romance",
+    "author": "active 12th century de Troyes Chrétien",
+    "downloads": 213,
+    "book_id": 2414,
+    "text_url": "https://www.gutenberg.org/ebooks/2414.txt.utf-8"
+  },
+  "Lord Dunsany -- Tales of Wonder": {
+    "title": "Tales of Wonder",
+    "author": "Lord Dunsany",
+    "downloads": 212,
+    "book_id": 13821,
+    "text_url": "https://www.gutenberg.org/ebooks/13821.txt.utf-8"
+  },
+  "Howard Pyle -- Otto of the Silver Hand": {
+    "title": "Otto of the Silver Hand",
+    "author": "Howard Pyle",
+    "downloads": 203,
+    "book_id": 2865,
+    "text_url": "https://www.gutenberg.org/ebooks/2865.txt.utf-8"
+  },
+  "William Morris -- The Story of Sigurd the Volsung": {
+    "title": "The Story of Sigurd the Volsung",
+    "author": "William Morris",
+    "downloads": 196,
+    "book_id": 13486,
+    "text_url": "https://www.gutenberg.org/ebooks/13486.txt.utf-8"
+  },
+  "James Stephens -- The Crock of Gold": {
+    "title": "The Crock of Gold",
+    "author": "James Stephens",
+    "downloads": 194,
+    "book_id": 1605,
+    "text_url": "https://www.gutenberg.org/ebooks/1605.txt.utf-8"
+  },
+  "William Morris -- The Roots of the Mountains": {
+    "title": "The Roots of the Mountains",
+    "author": "William Morris",
+    "downloads": 192,
+    "book_id": 6050,
+    "text_url": "https://www.gutenberg.org/ebooks/6050.txt.utf-8"
+  },
+  "Howard Pyle -- The Story of the Champions of the Round Table": {
+    "title": "The Story of the Champions of the Round Table",
+    "author": "Howard Pyle",
+    "downloads": 191,
+    "book_id": 10745,
+    "text_url": "https://www.gutenberg.org/ebooks/10745.txt.utf-8"
+  },
+  "L. Frank Baum -- The Patchwork Girl of Oz": {
+    "title": "The Patchwork Girl of Oz",
+    "author": "L. Frank Baum",
+    "downloads": 191,
+    "book_id": 955,
+    "text_url": "https://www.gutenberg.org/ebooks/955.txt.utf-8"
+  },
+  "L. Frank Baum -- The Magic of Oz": {
+    "title": "The Magic of Oz",
+    "author": "L. Frank Baum",
+    "downloads": 187,
+    "book_id": 419,
+    "text_url": "https://www.gutenberg.org/ebooks/419.txt.utf-8"
+  },
+  "Samuel E. Lowe -- In the Court of King Arthur": {
+    "title": "In the Court of King Arthur",
+    "author": "Samuel E. Lowe",
+    "downloads": 182,
+    "book_id": 6582,
+    "text_url": "https://www.gutenberg.org/ebooks/6582.txt.utf-8"
+  },
+  "L. Frank Baum -- The Road to Oz": {
+    "title": "The Road to Oz",
+    "author": "L. Frank Baum",
+    "downloads": 178,
+    "book_id": 485,
+    "text_url": "https://www.gutenberg.org/ebooks/485.txt.utf-8"
+  },
+  "L. Frank Baum -- The Enchanted Island of Yew": {
+    "title": "The Enchanted Island of Yew",
+    "author": "L. Frank Baum",
+    "downloads": 177,
+    "book_id": 518,
+    "text_url": "https://www.gutenberg.org/ebooks/518.txt.utf-8"
+  },
+  "L. Frank Baum -- The Emerald City of Oz": {
+    "title": "The Emerald City of Oz",
+    "author": "L. Frank Baum",
+    "downloads": 175,
+    "book_id": 517,
+    "text_url": "https://www.gutenberg.org/ebooks/517.txt.utf-8"
+  },
+  "James Branch Cabell -- Jurgen: A Comedy of Justice": {
+    "title": "Jurgen: A Comedy of Justice",
+    "author": "James Branch Cabell",
+    "downloads": 171,
+    "book_id": 8771,
+    "text_url": "https://www.gutenberg.org/ebooks/8771.txt.utf-8"
+  },
+  "L. Frank Baum -- The Master Key": {
+    "title": "The Master Key",
+    "author": "L. Frank Baum",
+    "downloads": 168,
+    "book_id": 436,
+    "text_url": "https://www.gutenberg.org/ebooks/436.txt.utf-8"
+  },
+  "L. Frank Baum -- Ozma of Oz": {
+    "title": "Ozma of Oz",
+    "author": "L. Frank Baum",
+    "downloads": 165,
+    "book_id": 486,
+    "text_url": "https://www.gutenberg.org/ebooks/486.txt.utf-8"
+  },
+  "L. Frank Baum -- The Scarecrow of Oz": {
+    "title": "The Scarecrow of Oz",
+    "author": "L. Frank Baum",
+    "downloads": 156,
+    "book_id": 957,
+    "text_url": "https://www.gutenberg.org/ebooks/957.txt.utf-8"
+  },
+  "William Morris -- The Hollow Land": {
+    "title": "The Hollow Land",
+    "author": "William Morris",
+    "downloads": 155,
+    "book_id": 15948,
+    "text_url": "https://www.gutenberg.org/ebooks/15948.txt.utf-8"
+  },
+  "L. Frank Baum -- The Tin Woodman of Oz": {
+    "title": "The Tin Woodman of Oz",
+    "author": "L. Frank Baum",
+    "downloads": 154,
+    "book_id": 960,
+    "text_url": "https://www.gutenberg.org/ebooks/960.txt.utf-8"
+  },
+  "William Beckford -- The History of Caliph Vathek": {
+    "title": "The History of Caliph Vathek",
+    "author": "William Beckford",
+    "downloads": 152,
+    "book_id": 2060,
+    "text_url": "https://www.gutenberg.org/ebooks/2060.txt.utf-8"
+  },
+  "Ernest Bramah -- Kai Lung's Golden Hours": {
+    "title": "Kai Lung's Golden Hours",
+    "author": "Ernest Bramah",
+    "downloads": 146,
+    "book_id": 1267,
+    "text_url": "https://www.gutenberg.org/ebooks/1267.txt.utf-8"
+  },
+  "L. Frank Baum -- Tik-Tok of Oz": {
+    "title": "Tik-Tok of Oz",
+    "author": "L. Frank Baum",
+    "downloads": 145,
+    "book_id": 956,
+    "text_url": "https://www.gutenberg.org/ebooks/956.txt.utf-8"
+  },
+  "Beatrice E. Clay -- Stories from Le Morte D'Arthur and the Mabinogion": {
+    "title": "Stories from Le Morte D'Arthur and the Mabinogion",
+    "author": "Beatrice E. Clay",
+    "downloads": 144,
+    "book_id": 15551,
+    "text_url": "https://www.gutenberg.org/ebooks/15551.txt.utf-8"
+  },
+  "Ernest Bramah -- The Wallet of Kai Lung": {
+    "title": "The Wallet of Kai Lung",
+    "author": "Ernest Bramah",
+    "downloads": 144,
+    "book_id": 1076,
+    "text_url": "https://www.gutenberg.org/ebooks/1076.txt.utf-8"
+  },
+  "James Branch Cabell -- Figures of Earth: A Comedy of Appearances": {
+    "title": "Figures of Earth: A Comedy of Appearances",
+    "author": "James Branch Cabell",
+    "downloads": 143,
+    "book_id": 11639,
+    "text_url": "https://www.gutenberg.org/ebooks/11639.txt.utf-8"
+  },
+  "Lord Dunsany -- Tales of Three Hemispheres": {
+    "title": "Tales of Three Hemispheres",
+    "author": "Lord Dunsany",
+    "downloads": 139,
+    "book_id": 11440,
+    "text_url": "https://www.gutenberg.org/ebooks/11440.txt.utf-8"
+  },
+  "L. Frank Baum -- The Surprising Adventures of the Magical Monarch of Mo and His People": {
+    "title": "The Surprising Adventures of the Magical Monarch of Mo and His People",
+    "author": "L. Frank Baum",
+    "downloads": 129,
+    "book_id": 16259,
+    "text_url": "https://www.gutenberg.org/ebooks/16259.txt.utf-8"
+  },
+  "Edwin Lester Arnold -- Gulliver of Mars": {
+    "title": "Gulliver of Mars",
+    "author": "Edwin Lester Arnold",
+    "downloads": 127,
+    "book_id": 604,
+    "text_url": "https://www.gutenberg.org/ebooks/604.txt.utf-8"
+  },
+  "Lord Dunsany -- Tales of War": {
+    "title": "Tales of War",
+    "author": "Lord Dunsany",
+    "downloads": 122,
+    "book_id": 5713,
+    "text_url": "https://www.gutenberg.org/ebooks/5713.txt.utf-8"
+  },
+  "William Morris -- The Water of the Wondrous Isles": {
+    "title": "The Water of the Wondrous Isles",
+    "author": "William Morris",
+    "downloads": 115,
+    "book_id": 8778,
+    "text_url": "https://www.gutenberg.org/ebooks/8778.txt.utf-8"
+  },
+  "James Branch Cabell -- The Eagle's Shadow": {
+    "title": "The Eagle's Shadow",
+    "author": "James Branch Cabell",
+    "downloads": 112,
+    "book_id": 10882,
+    "text_url": "https://www.gutenberg.org/ebooks/10882.txt.utf-8"
+  },
+  "Lord Dunsany -- Don Rodriguez; Chronicles of Shadow Valley": {
+    "title": "Don Rodriguez; Chronicles of Shadow Valley",
+    "author": "Lord Dunsany",
+    "downloads": 109,
+    "book_id": 4282,
+    "text_url": "https://www.gutenberg.org/ebooks/4282.txt.utf-8"
+  },
+  "L. Frank Baum -- Glinda of Oz": {
+    "title": "Glinda of Oz",
+    "author": "L. Frank Baum",
+    "downloads": 108,
+    "book_id": 961,
+    "text_url": "https://www.gutenberg.org/ebooks/961.txt.utf-8"
+  },
+  "Lord Dunsany -- Selections from the Writings of Lord Dunsany": {
+    "title": "Selections from the Writings of Lord Dunsany",
+    "author": "Lord Dunsany",
+    "downloads": 107,
+    "book_id": 13664,
+    "text_url": "https://www.gutenberg.org/ebooks/13664.txt.utf-8"
+  },
+  "William Morris -- The Story of the Glittering Plain": {
+    "title": "The Story of the Glittering Plain",
+    "author": "William Morris",
+    "downloads": 104,
+    "book_id": 2565,
+    "text_url": "https://www.gutenberg.org/ebooks/2565.txt.utf-8"
+  },
+  "L. Frank Baum -- Rinkitink in Oz": {
+    "title": "Rinkitink in Oz",
+    "author": "L. Frank Baum",
+    "downloads": 102,
+    "book_id": 958,
+    "text_url": "https://www.gutenberg.org/ebooks/958.txt.utf-8"
+  },
+  "L. Frank Baum -- Sky Island": {
+    "title": "Sky Island",
+    "author": "L. Frank Baum",
+    "downloads": 101,
+    "book_id": 4356,
+    "text_url": "https://www.gutenberg.org/ebooks/4356.txt.utf-8"
+  },
+  "L. Frank Baum -- The Sea Fairies": {
+    "title": "The Sea Fairies",
+    "author": "L. Frank Baum",
+    "downloads": 100,
+    "book_id": 4358,
+    "text_url": "https://www.gutenberg.org/ebooks/4358.txt.utf-8"
+  },
+  "James Branch Cabell -- The Certain Hour (Dizain des Poëtes)": {
+    "title": "The Certain Hour (Dizain des Poëtes)",
+    "author": "James Branch Cabell",
+    "downloads": 100,
+    "book_id": 288,
+    "text_url": "https://www.gutenberg.org/ebooks/288.txt.utf-8"
+  },
+  "William Morris -- The World of Romance": {
+    "title": "The World of Romance",
+    "author": "William Morris",
+    "downloads": 98,
+    "book_id": 17973,
+    "text_url": "https://www.gutenberg.org/ebooks/17973.txt.utf-8"
+  },
+  "Howard Pyle -- Twilight Land": {
+    "title": "Twilight Land",
+    "author": "Howard Pyle",
+    "downloads": 97,
+    "book_id": 1751,
+    "text_url": "https://www.gutenberg.org/ebooks/1751.txt.utf-8"
+  },
+  "William Morris -- Child Christopher and Goldilind the Fair": {
+    "title": "Child Christopher and Goldilind the Fair",
+    "author": "William Morris",
+    "downloads": 97,
+    "book_id": 234,
+    "text_url": "https://www.gutenberg.org/ebooks/234.txt.utf-8"
+  },
+  "Lord Dunsany -- If: A Play in Four Acts": {
+    "title": "If: A Play in Four Acts",
+    "author": "Lord Dunsany",
+    "downloads": 92,
+    "book_id": 1311,
+    "text_url": "https://www.gutenberg.org/ebooks/1311.txt.utf-8"
+  },
+  "William Morris -- Old French Romances, Done into English": {
+    "title": "Old French Romances, Done into English",
+    "author": "William Morris",
+    "downloads": 89,
+    "book_id": 5988,
+    "text_url": "https://www.gutenberg.org/ebooks/5988.txt.utf-8"
+  },
+  "Ernest Bramah -- The Mirror of Kong Ho": {
+    "title": "The Mirror of Kong Ho",
+    "author": "Ernest Bramah",
+    "downloads": 88,
+    "book_id": 1077,
+    "text_url": "https://www.gutenberg.org/ebooks/1077.txt.utf-8"
+  },
+  "James Branch Cabell -- Gallantry: Dizain des Fetes Galantes": {
+    "title": "Gallantry: Dizain des Fetes Galantes",
+    "author": "James Branch Cabell",
+    "downloads": 85,
+    "book_id": 8715,
+    "text_url": "https://www.gutenberg.org/ebooks/8715.txt.utf-8"
+  },
+  "Lord Dunsany -- Plays of Near & Far": {
+    "title": "Plays of Near & Far",
+    "author": "Lord Dunsany",
+    "downloads": 83,
+    "book_id": 19393,
+    "text_url": "https://www.gutenberg.org/ebooks/19393.txt.utf-8"
+  },
+  "Lord Dunsany -- Unhappy Far-Off Things": {
+    "title": "Unhappy Far-Off Things",
+    "author": "Lord Dunsany",
+    "downloads": 82,
+    "book_id": 13820,
+    "text_url": "https://www.gutenberg.org/ebooks/13820.txt.utf-8"
+  },
+  "Lord Dunsany -- Plays of Gods and Men": {
+    "title": "Plays of Gods and Men",
+    "author": "Lord Dunsany",
+    "downloads": 82,
+    "book_id": 11283,
+    "text_url": "https://www.gutenberg.org/ebooks/11283.txt.utf-8"
+  },
+  "James Branch Cabell -- The Cords of Vanity: A Comedy of Shirking": {
+    "title": "The Cords of Vanity: A Comedy of Shirking",
+    "author": "James Branch Cabell",
+    "downloads": 81,
+    "book_id": 9608,
+    "text_url": "https://www.gutenberg.org/ebooks/9608.txt.utf-8"
+  },
+  "James Branch Cabell -- Taboo": {
+    "title": "Taboo",
+    "author": "James Branch Cabell",
+    "downloads": 79,
+    "book_id": 17134,
+    "text_url": "https://www.gutenberg.org/ebooks/17134.txt.utf-8"
+  },
+  "George Manville Fenn -- Young Robin Hood": {
+    "title": "Young Robin Hood",
+    "author": "George Manville Fenn",
+    "downloads": 79,
+    "book_id": 11097,
+    "text_url": "https://www.gutenberg.org/ebooks/11097.txt.utf-8"
+  },
+  "Howard Pyle -- The Ruby of Kishmoor": {
+    "title": "The Ruby of Kishmoor",
+    "author": "Howard Pyle",
+    "downloads": 74,
+    "book_id": 3687,
+    "text_url": "https://www.gutenberg.org/ebooks/3687.txt.utf-8"
+  },
+  "L. Frank Baum -- Mary Louise": {
+    "title": "Mary Louise",
+    "author": "L. Frank Baum",
+    "downloads": 72,
+    "book_id": 5660,
+    "text_url": "https://www.gutenberg.org/ebooks/5660.txt.utf-8"
+  },
+  "James Branch Cabell -- Domnei: A Comedy of Woman-Worship": {
+    "title": "Domnei: A Comedy of Woman-Worship",
+    "author": "James Branch Cabell",
+    "downloads": 71,
+    "book_id": 9663,
+    "text_url": "https://www.gutenberg.org/ebooks/9663.txt.utf-8"
+  },
+  "James Branch Cabell -- The Rivet in Grandfather's Neck: A Comedy of Limitations": {
+    "title": "The Rivet in Grandfather's Neck: A Comedy of Limitations",
+    "author": "James Branch Cabell",
+    "downloads": 71,
+    "book_id": 10041,
+    "text_url": "https://www.gutenberg.org/ebooks/10041.txt.utf-8"
+  },
+  "James Branch Cabell -- The Line of Love; Dizain des Mariages": {
+    "title": "The Line of Love; Dizain des Mariages",
+    "author": "James Branch Cabell",
+    "downloads": 70,
+    "book_id": 9488,
+    "text_url": "https://www.gutenberg.org/ebooks/9488.txt.utf-8"
+  },
+  "L. Frank Baum -- The Marvelous Land Of Oz": {
+    "title": "The Marvelous Land Of Oz",
+    "author": "L. Frank Baum",
+    "downloads": 66,
+    "book_id": 17426,
+    "text_url": "https://www.gutenberg.org/ebooks/17426.txt.utf-8"
+  },
+  "James Branch Cabell -- Chivalry: Dizain des Reines": {
+    "title": "Chivalry: Dizain des Reines",
+    "author": "James Branch Cabell",
+    "downloads": 63,
+    "book_id": 11752,
+    "text_url": "https://www.gutenberg.org/ebooks/11752.txt.utf-8"
+  },
+  "James Branch Cabell -- The Jewel Merchants: A Comedy in One Act": {
+    "title": "The Jewel Merchants: A Comedy in One Act",
+    "author": "James Branch Cabell",
+    "downloads": 58,
+    "book_id": 9829,
+    "text_url": "https://www.gutenberg.org/ebooks/9829.txt.utf-8"
+  },
+  "L. Frank Baum -- Little Wizard Stories of Oz": {
+    "title": "Little Wizard Stories of Oz",
+    "author": "L. Frank Baum",
+    "downloads": 45,
+    "book_id": 19467,
+    "text_url": "https://www.gutenberg.org/ebooks/19467.txt.utf-8"
+  }
+}

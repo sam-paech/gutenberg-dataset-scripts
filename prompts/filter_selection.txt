@@ -1,0 +1,12 @@
+Your task is to filter the provided list of common domain books, keeping only those which were written after 1850 (roughly), not poetry, not plays and written in English.
+
+For the date filter, let's by default keep any, and only exclude them if you know they were written before say 1850. If you don't know the title, just keep it in.
+
+Output a list like:
+
+[
+"author -- title",
+...
+]
+
+Output only the titles from the given list that match the given criteria. ensure the string exactly matches the key in the provided json. Ensure you check every item in the provided list.

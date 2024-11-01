@@ -1,0 +1,9 @@
+Select from 0 to 5 of the best FICTION works from each of the authors in this list, avoiding poetry. If there are no fiction works from that author in the list, don't select any. If there are 5 great ones, you can select 5. if there are only say 3 good ones, select 3. and so on.
+
+to ensure diversity, only select one work from a given series.
+
+output a json list of the filenames of the works you've chosen, no additional commentary, like this: [ "<filename1>", ... ]
+
+Ensure you are only selecting works from the provided list, and output the filenames exactly as they appear in the list.
+
+IMPORTANT: ONLY select filenames that appear in the list. Do not make them up. Make sure you include works for every author, as long as they have works listed that meet the given criteria.

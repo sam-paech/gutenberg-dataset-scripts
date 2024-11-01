@@ -1,0 +1,14 @@
+# Gutenberg dataset scripts
+
+These are the scripts I used to make the gutenberg3 dataset.
+
+https://huggingface.co/datasets/sam-paech/gutenberg3-generalfiction-scifi-fantasy-romance-adventure-dpo
+
+Here is a brief overview of the process:
+
+1. Create a big list of books + filenames / urls of books in the Gutenberg library
+2. Prompt gemini to select the top [number] of books from the list. I do this per genre.
+3. Download/ load the full text (may need to do a bit of cleanup here), split into 4 even chunks. Send each chunk to gemini with instructions to select 3  scenes (by some criteria) and return the full text. This part is a bit expensive since you kinda need gemini's long context abilities. But there may be cheaper llms that can do it.
+4. Now we should have 12 scenes per book. You can ofc extract more than 12 per book, that's just the number I went with.
+5. Now we need to generate writing prompts for these scenes which essentially describe in general terms a setup for the scene so that a LLM can write something similar given the prompt. I used gpt-4o for this part.
+6. Finally we use the prompts created in part 4 to generate the LLM samples that are used as the "rejected" sample. I used the base model that I'm fine tuning to generate the rejected samples, so that it will more easily learn not to write that way, i.e. unlearn its normal writing style. But realistically you can just use any weak model or combination of models.

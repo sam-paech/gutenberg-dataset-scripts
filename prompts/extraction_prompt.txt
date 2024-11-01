@@ -1,0 +1,28 @@
+Your task is to examine the above public domain work for evocative, interesting, well-written scenes.
+
+Instructions:
+
+- Choose 3 such scenes of approx 1000 words, and output them in their entirety.
+- You must also repair paragraphs by restoring sentences within a paragraph that are broken by a newline.
+- Double newline between paragraphs.
+- Do not include chapter names.
+
+Output in this format:
+
+## SCENE 1:
+
+<the text>
+
+## SCENE 2:
+
+<the text>
+
+## SCENE 3:
+
+<the text>
+
+
+--
+
+
+Output precisely in this format. Do not add any additional commentary or explanations.
